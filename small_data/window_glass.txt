@@ -1,0 +1,834 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Window - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Window","wgTitle":"Window","wgCurRevisionId":700946945,"wgRevisionId":700946945,"wgArticleId":49400,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with URL errors","Use mdy dates from July 2015","Wikipedia indefinitely move-protected pages","All articles with unsourced statements","Articles with unsourced statements from November 2013","Commons category with local link same as on Wikidata","Wikipedia articles with GND identifiers","Windows","Architectural elements","Glass"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Window","wgRelevantArticleId":49400,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wikilove-recipient":"","wikilove-anon":0,"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Window_Porto_Covo_August_2013-2.jpg/100px-Window_Porto_Covo_August_2013-2.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q35473","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.10" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Window" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Window&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Window&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Window" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.10/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Window skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Window</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">This article is about the part of a building.  For the graphical user interface element, see <a href="/wiki/Window_(computing)" title="Window (computing)">Window (computing)</a>.  For the computer operating system, see <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a>.  For other uses, see <a href="/wiki/Window_(disambiguation)" title="Window (disambiguation)" class="mw-disambig">Window (disambiguation)</a> and <a href="/wiki/Windows_(disambiguation)" title="Windows (disambiguation)" class="mw-disambig">Windows (disambiguation)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Window_Porto_Covo_August_2013-2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Window_Porto_Covo_August_2013-2.jpg/220px-Window_Porto_Covo_August_2013-2.jpg" width="220" height="154" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Window_Porto_Covo_August_2013-2.jpg/330px-Window_Porto_Covo_August_2013-2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Window_Porto_Covo_August_2013-2.jpg/440px-Window_Porto_Covo_August_2013-2.jpg 2x" data-file-width="5961" data-file-height="4161" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Window_Porto_Covo_August_2013-2.jpg" class="internal" title="Enlarge"></a></div>
+Window of traditional design in <a href="/wiki/Porto_Covo" title="Porto Covo">Porto Covo</a>, <a href="/wiki/Portugal" title="Portugal">Portugal</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:The_Real_Estate_Associates_(TREA)_House.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/The_Real_Estate_Associates_%28TREA%29_House.JPG/170px-The_Real_Estate_Associates_%28TREA%29_House.JPG" width="170" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/The_Real_Estate_Associates_%28TREA%29_House.JPG/255px-The_Real_Estate_Associates_%28TREA%29_House.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/The_Real_Estate_Associates_%28TREA%29_House.JPG/340px-The_Real_Estate_Associates_%28TREA%29_House.JPG 2x" data-file-width="1200" data-file-height="1600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:The_Real_Estate_Associates_(TREA)_House.JPG" class="internal" title="Enlarge"></a></div>
+Bay window in <a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:GlassWindow.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/GlassWindow.jpg/170px-GlassWindow.jpg" width="170" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/GlassWindow.jpg/255px-GlassWindow.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/GlassWindow.jpg/340px-GlassWindow.jpg 2x" data-file-width="1536" data-file-height="2048" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:GlassWindow.jpg" class="internal" title="Enlarge"></a></div>
+A <a href="/wiki/Stained_glass" title="Stained glass">stained glass</a> panel depicting <a href="/wiki/Bible" title="Bible">Biblical</a> scenes at a historic <a href="/wiki/Church_(building)" title="Church (building)">church</a> in Scotland</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Vitrail_roccella_k.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Vitrail_roccella_k.JPG/170px-Vitrail_roccella_k.JPG" width="170" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Vitrail_roccella_k.JPG/255px-Vitrail_roccella_k.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Vitrail_roccella_k.JPG/340px-Vitrail_roccella_k.JPG 2x" data-file-width="1712" data-file-height="2288" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Vitrail_roccella_k.JPG" class="internal" title="Enlarge"></a></div>
+A contemporary <a href="/wiki/Stained_glass" title="Stained glass">stained glass</a> window in France</div>
+</div>
+</div>
+<p>A <b>window</b> is an opening in a <a href="/wiki/Wall" title="Wall">wall</a>, <a href="/wiki/Door" title="Door">door</a>, <a href="/wiki/Roof" title="Roof">roof</a> or <a href="/wiki/Vehicle" title="Vehicle">vehicle</a> that allows the passage of light and, if not closed or sealed, air and sound.<sup id="cite_ref-Window_1-0" class="reference"><a href="#cite_note-Window-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>Modern windows are usually <a href="/wiki/Glazing_(window)" title="Glazing (window)">glazed</a> or covered in some other <a href="/wiki/Transparency_(optics)" title="Transparency (optics)" class="mw-redirect">transparent</a> or translucent material. Windows are held in place by frames.<sup id="cite_ref-britannica.com_2-0" class="reference"><a href="#cite_note-britannica.com-2"><span>[</span>2<span>]</span></a></sup> Many glazed windows may be opened, to allow ventilation, or closed, to exclude inclement weather.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> Windows often have a latch or similar mechanism to lock the window shut.</p>
+<p>Types include the eyebrow window, fixed windows, single-hung and double-hung sash windows, horizontal sliding <a href="/wiki/Sash_window" title="Sash window">sash windows</a>, casement windows, awning windows, hopper windows, tilt and slide windows (often door-sized), tilt and turn windows, transom windows, sidelight windows, jalousie or <a href="/wiki/Louver" title="Louver">louvered</a> windows, clerestory windows, skylights, roof windows, roof lanterns, bay windows, oriel windows, thermal, or Diocletian, windows, picture windows, emergency exit windows, <a href="/wiki/Stained_glass" title="Stained glass">stained glass</a> windows, French windows, and double- and triple paned windows.</p>
+<p>The Romans were the first known to use glass for windows, a technology likely first produced in Roman Egypt, in Alexandria ca. 100 AD. Paper windows were economical and widely used in ancient <a href="/wiki/China" title="China">China</a>, <a href="/wiki/Korea" title="Korea">Korea</a> and <a href="/wiki/Japan" title="Japan">Japan</a>. In England, glass became common in the windows of ordinary homes only in the early 17th century whereas windows made up of panes of flattened <a href="/wiki/Animal_horn" title="Animal horn" class="mw-redirect">animal horn</a> were used as early as the 14th century. Modern-style floor-to-ceiling windows became possible only after the industrial <a href="/wiki/Plate_glass" title="Plate glass" class="mw-redirect">plate</a> <a href="/wiki/Glass_production" title="Glass production">glass making</a> processes were perfected.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Types"><span class="tocnumber">3</span> <span class="toctext">Types</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Eyebrow"><span class="tocnumber">3.1</span> <span class="toctext">Eyebrow</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Fixed"><span class="tocnumber">3.2</span> <span class="toctext">Fixed</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Single-hung_sash"><span class="tocnumber">3.3</span> <span class="toctext">Single-hung sash</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Double-hung_sash"><span class="tocnumber">3.4</span> <span class="toctext">Double-hung sash</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Horizontal_sliding_sash"><span class="tocnumber">3.5</span> <span class="toctext">Horizontal sliding sash</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Casement"><span class="tocnumber">3.6</span> <span class="toctext">Casement</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Awning"><span class="tocnumber">3.6.1</span> <span class="toctext">Awning</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Hopper"><span class="tocnumber">3.6.2</span> <span class="toctext">Hopper</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-12"><a href="#Pivot"><span class="tocnumber">3.7</span> <span class="toctext">Pivot</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Tilt_and_slide"><span class="tocnumber">3.8</span> <span class="toctext">Tilt and slide</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#Tilt_and_turn"><span class="tocnumber">3.8.1</span> <span class="toctext">Tilt and turn</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-15"><a href="#Transom"><span class="tocnumber">3.9</span> <span class="toctext">Transom</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Side_light"><span class="tocnumber">3.10</span> <span class="toctext">Side light</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Jalousie_window"><span class="tocnumber">3.11</span> <span class="toctext">Jalousie window</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Clerestory"><span class="tocnumber">3.12</span> <span class="toctext">Clerestory</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Skylight"><span class="tocnumber">3.13</span> <span class="toctext">Skylight</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Roof"><span class="tocnumber">3.14</span> <span class="toctext">Roof</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Roof_lantern"><span class="tocnumber">3.15</span> <span class="toctext">Roof lantern</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Bay"><span class="tocnumber">3.16</span> <span class="toctext">Bay</span></a>
+<ul>
+<li class="toclevel-3 tocsection-23"><a href="#Oriel"><span class="tocnumber">3.16.1</span> <span class="toctext">Oriel</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-24"><a href="#Thermal"><span class="tocnumber">3.17</span> <span class="toctext">Thermal</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Picture"><span class="tocnumber">3.18</span> <span class="toctext">Picture</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Multi-lite"><span class="tocnumber">3.19</span> <span class="toctext">Multi-lite</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Emergency_exit.2Fegress"><span class="tocnumber">3.20</span> <span class="toctext">Emergency exit/egress</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Stained_glass"><span class="tocnumber">3.21</span> <span class="toctext">Stained glass</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#French"><span class="tocnumber">3.22</span> <span class="toctext">French</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Double-paned"><span class="tocnumber">3.23</span> <span class="toctext">Double-paned</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-31"><a href="#Terms"><span class="tocnumber">4</span> <span class="toctext">Terms</span></a>
+<ul>
+<li class="toclevel-2 tocsection-32"><a href="#Labeling"><span class="tocnumber">4.1</span> <span class="toctext">Labeling</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-33"><a href="#Construction"><span class="tocnumber">5</span> <span class="toctext">Construction</span></a>
+<ul>
+<li class="toclevel-2 tocsection-34"><a href="#Grids_or_muntins"><span class="tocnumber">5.1</span> <span class="toctext">Grids or muntins</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="#Frame_and_sash_construction"><span class="tocnumber">5.2</span> <span class="toctext">Frame and sash construction</span></a></li>
+<li class="toclevel-2 tocsection-36"><a href="#Glazing_and_filling"><span class="tocnumber">5.3</span> <span class="toctext">Glazing and filling</span></a></li>
+<li class="toclevel-2 tocsection-37"><a href="#Other_construction_details"><span class="tocnumber">5.4</span> <span class="toctext">Other construction details</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-38"><a href="#Windows_and_the_sun"><span class="tocnumber">6</span> <span class="toctext">Windows and the sun</span></a>
+<ul>
+<li class="toclevel-2 tocsection-39"><a href="#Sun_incidence_angle"><span class="tocnumber">6.1</span> <span class="toctext">Sun incidence angle</span></a></li>
+<li class="toclevel-2 tocsection-40"><a href="#Solar_window"><span class="tocnumber">6.2</span> <span class="toctext">Solar window</span></a></li>
+<li class="toclevel-2 tocsection-41"><a href="#Passive_solar"><span class="tocnumber">6.3</span> <span class="toctext">Passive solar</span></a></li>
+<li class="toclevel-2 tocsection-42"><a href="#Window_coverings"><span class="tocnumber">6.4</span> <span class="toctext">Window coverings</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-43"><a href="#Gallery"><span class="tocnumber">7</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-44"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-45"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-46"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=1" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The English language-word <i>window</i> originates from the <a href="/wiki/Old_Norse" title="Old Norse">Old Norse</a> 'vindauga', from 'vindr – wind' and 'auga – eye', i.e., <i>wind eye</i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> In <a href="/wiki/Norwegian_Language" title="Norwegian Language" class="mw-redirect">Norwegian</a> <a href="/wiki/Nynorsk" title="Nynorsk">Nynorsk</a> and <a href="/wiki/Icelandic_Language" title="Icelandic Language" class="mw-redirect">Icelandic</a> the Old Norse form has survived to this day (in Icelandic only as a less used synonym to <i>gluggi</i>), in <a href="/wiki/Swedish_language" title="Swedish language">Swedish</a> the word <i>vindöga</i> remains as a term for a hole through the roof of a hut, and in the Danish language 'vindue' and Norwegian <a href="/wiki/Bokm%C3%A5l" title="Bokmål">Bokmål</a> 'vindu', the direct link to 'eye' is lost, just like for 'window'. The Danish (but not the Bokmål) word is pronounced fairly similarly to <i>window</i>.</p>
+<p><i>Window</i> is first recorded in the early 13th century, and originally referred to an unglazed hole in a roof. <i>Window</i> replaced the <a href="/wiki/Old_English_language" title="Old English language" class="mw-redirect">Old English</a> <i>eagþyrl</i>, which literally means 'eye-hole,' and 'eagduru' 'eye-door'. Many Germanic languages however adopted the Latin word 'fenestra' to describe a window with glass, such as <a href="/wiki/Standard_language" title="Standard language">standard</a> <a href="/wiki/Swedish_language" title="Swedish language">Swedish</a> 'fönster', or <a href="/wiki/German_language" title="German language">German</a> 'Fenster'. The use of <i>window</i> in English is probably because of the Scandinavian influence on the English language by means of <a href="/wiki/Loanwords" title="Loanwords" class="mw-redirect">loanwords</a> during the <a href="/wiki/Viking_Age" title="Viking Age">Viking Age</a>. In English the word <i>fenester</i> was used as a parallel until the mid-18th century. <i>Fenestration</i> is still used to describe the arrangement of windows within a <a href="/wiki/Fa%C3%A7ade" title="Façade" class="mw-redirect">façade</a>, as well as <i><a href="/wiki/Defenestration" title="Defenestration">defenestration</a></i>, meaning to throw something out of a window.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Roman_window_glass.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Roman_window_glass.jpg/170px-Roman_window_glass.jpg" width="170" height="204" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Roman_window_glass.jpg/255px-Roman_window_glass.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Roman_window_glass.jpg/340px-Roman_window_glass.jpg 2x" data-file-width="2736" data-file-height="3283" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Roman_window_glass.jpg" class="internal" title="Enlarge"></a></div>
+Fragment of a Roman window glass plate dated to 1st to 4th century A.D.<br />
+Note the obvious curvature, this is not a flat pane.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:MorellaSantaMariaWindow.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/MorellaSantaMariaWindow.jpg/170px-MorellaSantaMariaWindow.jpg" width="170" height="208" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/MorellaSantaMariaWindow.jpg/255px-MorellaSantaMariaWindow.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/MorellaSantaMariaWindow.jpg/340px-MorellaSantaMariaWindow.jpg 2x" data-file-width="1806" data-file-height="2213" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:MorellaSantaMariaWindow.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Alabaster" title="Alabaster">Alabaster</a> 'mullion' divided decorative windows in Santa Maria La Major church (<a href="/wiki/Morella,_Castell%C3%B3n" title="Morella, Castellón">Morella</a>, Spain).</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:ValenciaCathedral2.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/ValenciaCathedral2.JPG/170px-ValenciaCathedral2.JPG" width="170" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/ValenciaCathedral2.JPG/255px-ValenciaCathedral2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/ValenciaCathedral2.JPG/340px-ValenciaCathedral2.JPG 2x" data-file-width="342" data-file-height="456" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:ValenciaCathedral2.JPG" class="internal" title="Enlarge"></a></div>
+Alabaster window in the <a href="/wiki/Valencia_Cathedral" title="Valencia Cathedral">Valencia Cathedral</a>. Note the asymmetrical, slanted left side of the wall-frame, which lets sun rays reach the chancel.</div>
+</div>
+</div>
+<p>The earliest windows were just holes in a wall. Later, windows were covered with animal hide, cloth, or wood. <a href="/wiki/Window_shutter" title="Window shutter">Shutters</a> that could be opened and closed came next. Over time, windows were built that both protected the inhabitants from the elements and transmitted light, using multiple small pieces of translucent material (such as flattened pieces of translucent animal horn, thin slices of <a href="/wiki/Marble" title="Marble">marble</a>, or pieces of glass) set in frameworks of wood, iron or lead. In the Far East, paper was used to fill windows.<sup id="cite_ref-britannica.com_2-1" class="reference"><a href="#cite_note-britannica.com-2"><span>[</span>2<span>]</span></a></sup> The Romans were the first known to use glass for windows, a technology likely first produced in Roman Egypt. Namely, in Alexandria ca. 100 AD cast glass windows, albeit with poor optical properties, began to appear, but these were small thick productions, little more than <a href="/wiki/Glass_blowing" title="Glass blowing" class="mw-redirect">blown glass</a> jars (cylindrical shapes) flattened out into sheets with circular striation patterns throughout. It would be over a millennium before a window glass became transparent enough to see through clearly, as we think of it now.</p>
+<p>Over the centuries techniques were developed to shear through one side of a blown glass <a href="/wiki/Cylinder_(geometry)" title="Cylinder (geometry)">cylinder</a> and produce thinner rectangular window panes from the same amount of glass material. This gave rise to tall narrow windows, usually separated by a vertical support called a mullion. <a href="/wiki/Mullion" title="Mullion">Mullioned</a> glass windows were the windows of choice among <a href="/wiki/Europe" title="Europe">European</a> well-to-do, whereas paper windows were economical and widely used in ancient <a href="/wiki/China" title="China">China</a>, <a href="/wiki/Korea" title="Korea">Korea</a> and <a href="/wiki/Japan" title="Japan">Japan</a>. In England, glass became common in the windows of ordinary homes only in the early 17th century whereas windows made up of panes of flattened animal horn were used as early as the 14th century.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> Noted science historian, author and television show host/producer <a href="/wiki/James_Burke_(science_historian)" title="James Burke (science historian)">James Burke</a> attributes the rapid deforestation of Great Britain in the late 1500s to the uptick in production of glazed windows as well as iron cannon production (1st Cast in 1547). He writes further this gave rise to coal for fuel, which spurred iron production, requiring more coal, and more iron, then steam engine pumps, canals... and more iron; all because windows became a middle class commodity in the latter days of the <a href="/wiki/Little_ice_age" title="Little ice age" class="mw-redirect">little ice age</a>, one large factor among several leading to the deforesting English woodlands, and the switch over to a coal economy.</p>
+<p>Modern-style floor-to-ceiling windows became possible only after the industrial <a href="/wiki/Plate_glass" title="Plate glass" class="mw-redirect">plate</a> <a href="/wiki/Glass_production" title="Glass production">glass making</a> processes were perfected. Modern windows are usually filled with glass, although a few are transparent plastic.<sup id="cite_ref-britannica.com_2-2" class="reference"><a href="#cite_note-britannica.com-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=3" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Eyebrow">Eyebrow</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=4" title="Edit section: Eyebrow">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The term eyebrow window is used in two ways: a curved top window in a wall or in an eyebrow <a href="/wiki/Dormer" title="Dormer">dormer</a>; and a row of small windows usually under the front eaves such as the <a href="/wiki/James-Lorah_House" title="James-Lorah House">James-Lorah House</a> in Pennsylvania.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Fixed">Fixed</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=5" title="Edit section: Fixed">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A window that cannot be opened, whose function is limited to allowing light to enter (unlike an unfixed window, which can open and close). Clerestory windows are often fixed. Transom windows may be fixed or operable. This type of window is used in situations where light or vision alone is needed as no ventilation is possible windows without the use of <a href="/wiki/Trickle_vent" title="Trickle vent">trickle vents</a> or overglass vents.</p>
+<h3><span class="mw-headline" id="Single-hung_sash">Single-hung sash</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=6" title="Edit section: Single-hung sash">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>One sash is movable (usually the bottom one) and the other fixed. This is the earlier form of sliding sash window, and is also cheaper.<sup id="cite_ref-britannica.com_2-3" class="reference"><a href="#cite_note-britannica.com-2"><span>[</span>2<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Double-hung_sash">Double-hung sash</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=7" title="Edit section: Double-hung sash">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A <a href="/wiki/Sash_window" title="Sash window">sash window</a> is the traditional style of window in the United Kingdom, and many other places that were formerly colonized by the UK, with two parts (sashes) that overlap slightly and slide up and down inside the frame. The two parts are not necessarily the same size. Currently most new double-hung sash windows use spring balances to support the sashes, but traditionally, counterweights held in boxes on either side of the window were used. These were and are attached to the sashes using pulleys of either braided cord or, later, purpose-made chain. Three types of spring balances are called a tape or clock spring balance; channel or block-and-tackle balance; and a spiral or tube balance.</p>
+<p>Double-hung sash windows were traditionally often fitted with <a href="/wiki/Window_shutter" title="Window shutter">shutters</a>. Sash windows can be fitted with simplex hinges that let the window be locked into hinges on one side, while the rope on the other side is detached—so the window can be opened for fire escape or cleaning.</p>
+<h3><span class="mw-headline" id="Horizontal_sliding_sash">Horizontal sliding sash</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=8" title="Edit section: Horizontal sliding sash">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Has two or more sashes that overlap slightly but slide horizontally within the frame. In the UK, these are sometimes called <i><a href="/wiki/Yorkshire" title="Yorkshire">Yorkshire</a></i> sash windows, presumably because of their traditional use in that county.</p>
+<h3><span class="mw-headline" id="Casement">Casement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=9" title="Edit section: Casement">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Casement_window" title="Casement window">Casement window</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gordijnen_aan_venster.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gordijnen_aan_venster.JPG/220px-Gordijnen_aan_venster.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gordijnen_aan_venster.JPG/330px-Gordijnen_aan_venster.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gordijnen_aan_venster.JPG/440px-Gordijnen_aan_venster.JPG 2x" data-file-width="2560" data-file-height="1920" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gordijnen_aan_venster.JPG" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Casement_window" title="Casement window">Casement window</a></div>
+</div>
+</div>
+<p>A window with a hinged sash that swings in or out like a door comprising either a side-hung, top-hung (also called "awning window"; see below), or occasionally bottom-hung sash or a combination of these types, sometimes with fixed panels on one or more sides of the sash.<sup id="cite_ref-Window_1-1" class="reference"><a href="#cite_note-Window-1"><span>[</span>1<span>]</span></a></sup> In the USA, these are usually opened using a <a href="/wiki/Crank_(mechanism)" title="Crank (mechanism)">crank</a>, but in parts of Europe they tend to use projection friction stays and <a href="/wiki/Espagnolette" title="Espagnolette">espagnolette</a> locking. Formerly, plain hinges were used with a <a href="/wiki/Casement_stay" title="Casement stay">casement stay</a>. <a href="/wiki/Handing" title="Handing" class="mw-redirect">Handing</a> applies to casement windows to determine direction of swing; a casement window may be left-handed, right-handed, or double. The casement window is the dominant type now found in modern buildings in the UK and many other parts of Europe.</p>
+<h4><span class="mw-headline" id="Awning">Awning</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=10" title="Edit section: Awning">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>An awning window is a casement window that is hung horizontally, <a href="/wiki/Hinge" title="Hinge">hinged</a> on top, so that it swings outward like an <a href="/wiki/Awning" title="Awning">awning</a>. Emilie Poisson designed this window.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2013)">citation needed</span></a></i>]</sup></p>
+<h4><span class="mw-headline" id="Hopper">Hopper</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=11" title="Edit section: Hopper">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A hopper window is a bottom-pivoting casement window that opens by tilting vertically, typically to the inside.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> (Mostly used for schools)</p>
+<h3><span class="mw-headline" id="Pivot">Pivot</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=12" title="Edit section: Pivot">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A window hung on one hinge on each of two opposite sides which allows the window to revolve when opened. The hinges may be mounted top and bottom (Vertically Pivoted) or at each jamb (Horizontally Pivoted). The window will usually open initially to a restricted position for ventilation and, once released, fully reverse and lock again for safe cleaning from inside. Modern pivot hinges incorporate a friction device to hold the window open against its own weight and may have restriction and reversed locking built in. In the UK, where this type of window is most common, they were extensively installed in high-rise social housing.</p>
+<h3><span class="mw-headline" id="Tilt_and_slide">Tilt and slide</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=13" title="Edit section: Tilt and slide">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A window (more usually a door-sized window) where the sash tilts inwards at the top and then slides horizontally behind the fixed pane.</p>
+<h4><span class="mw-headline" id="Tilt_and_turn">Tilt and turn</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=14" title="Edit section: Tilt and turn">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A <i>tilt and turn</i> window can both tilt inwards at the top or open inwards from hinges at the side. This is the most common type of window in Germany, its country of origin. It is also widespread in many other European countries. In Europe it is usual for these to be of the "turn first" type. i.e. when the handle is turned to 90 degrees the window opens in the side hung mode. With the handle turned to 180 degrees the window opens in bottom hung mode. Most usually in the UK the windows will be "tilt first" i.e. bottom hung at 90 degrees for ventilation and side hung at 180 degrees for cleaning the outer face of the glass from inside the building.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Transom">Transom</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=15" title="Edit section: Transom">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A window above a door; in an exterior door the <a href="/wiki/Transom_(architectural)" title="Transom (architectural)"><i>transom</i></a> window is often fixed, in an interior door it can open either by hinges at top or bottom, or rotate on hinges. It provided ventilation before forced air heating and cooling. A fan-shaped transom is known as a fanlight, especially in the British Isles.</p>
+<h3><span class="mw-headline" id="Side_light">Side light</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=16" title="Edit section: Side light">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Windows beside a door or window are called <i>side</i>-, <i>wing</i>-, and <i>margen-lights</i> and <i>flanking windows</i>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Jalousie_window">Jalousie window</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=17" title="Edit section: Jalousie window">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Jalousie2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Jalousie2.jpg/220px-Jalousie2.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Jalousie2.jpg/330px-Jalousie2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Jalousie2.jpg/440px-Jalousie2.jpg 2x" data-file-width="500" data-file-height="333" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Jalousie2.jpg" class="internal" title="Enlarge"></a></div>
+Jalousie or <a href="/wiki/Louver" title="Louver">louvered</a> window</div>
+</div>
+</div>
+<p>Also known as a <a href="/wiki/Louver" title="Louver">louvered</a> window, the <a href="/wiki/Jalousie_window" title="Jalousie window">jalousie window</a> consists of parallel slats of glass or <a href="/wiki/Poly(methyl_methacrylate)" title="Poly(methyl methacrylate)">acrylic</a> that open and close like a <a href="/wiki/Venetian_blind" title="Venetian blind" class="mw-redirect">Venetian blind</a>, usually using a crank or a lever. They are used extensively in tropical architecture. A jalousie door is a door with a jalousie window.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Cathedrale_d%27Amiens_-_Grandes_verrieres_et_voutes_de_la_nef.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cathedrale_d%27Amiens_-_Grandes_verrieres_et_voutes_de_la_nef.jpg/170px-Cathedrale_d%27Amiens_-_Grandes_verrieres_et_voutes_de_la_nef.jpg" width="170" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cathedrale_d%27Amiens_-_Grandes_verrieres_et_voutes_de_la_nef.jpg/255px-Cathedrale_d%27Amiens_-_Grandes_verrieres_et_voutes_de_la_nef.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cathedrale_d%27Amiens_-_Grandes_verrieres_et_voutes_de_la_nef.jpg/340px-Cathedrale_d%27Amiens_-_Grandes_verrieres_et_voutes_de_la_nef.jpg 2x" data-file-width="2304" data-file-height="3072" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Cathedrale_d%27Amiens_-_Grandes_verrieres_et_voutes_de_la_nef.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Clerestory" title="Clerestory">Clerestory</a> window</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Clerestory">Clerestory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=18" title="Edit section: Clerestory">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Clerestory" title="Clerestory">Clerestory</a></div>
+<p>A window set in a <a href="/wiki/Roof" title="Roof">roof</a> structure or high in a wall, used for <a href="/wiki/Daylighting" title="Daylighting">daylighting</a>.</p>
+<h3><span class="mw-headline" id="Skylight">Skylight</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=19" title="Edit section: Skylight">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Daylighting" title="Daylighting">Daylighting</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:BurlingtonHousePavementWindow.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BurlingtonHousePavementWindow.jpg/220px-BurlingtonHousePavementWindow.jpg" width="220" height="186" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BurlingtonHousePavementWindow.jpg/330px-BurlingtonHousePavementWindow.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BurlingtonHousePavementWindow.jpg/440px-BurlingtonHousePavementWindow.jpg 2x" data-file-width="2245" data-file-height="1893" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:BurlingtonHousePavementWindow.jpg" class="internal" title="Enlarge"></a></div>
+Sidewalk skylight (also named 'pavement light') made of <a href="/wiki/Glass_brick" title="Glass brick">Glass brick</a> in <a href="/wiki/Burlington_House" title="Burlington House">Burlington House</a>, <a href="/wiki/London" title="London">London</a></div>
+</div>
+</div>
+<p>A flat or slope window used for daylighting, built into a roof structure that is out of reach.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Roof">Roof</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=20" title="Edit section: Roof">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:EdenProjectRoof.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/EdenProjectRoof.jpg/220px-EdenProjectRoof.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/EdenProjectRoof.jpg/330px-EdenProjectRoof.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/EdenProjectRoof.jpg/440px-EdenProjectRoof.jpg 2x" data-file-width="2560" data-file-height="1920" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:EdenProjectRoof.jpg" class="internal" title="Enlarge"></a></div>
+Hexagonal external cladding panels of roof in <a href="/wiki/Eden_Project" title="Eden Project">Eden Project</a> Biomes (<a href="/wiki/Cornwall" title="Cornwall">Cornwall</a>, England,)</div>
+</div>
+</div>
+<p>A sloped window used for <a href="/wiki/Daylighting" title="Daylighting">daylighting</a>, built into a roof structure. It is one of the few windows that could be used as an exit. Larger <a href="/wiki/Roof_window" title="Roof window">roof windows</a> meet building codes for emergency evacuation.</p>
+<h3><span class="mw-headline" id="Roof_lantern">Roof lantern</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=21" title="Edit section: Roof lantern">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Cupola" title="Cupola">Cupola</a></div>
+<p>A roof lantern is a multi-paned glass structure, resembling a small building, built on a roof for day or moon light. Sometimes includes an additional <a href="/wiki/Clerestory" title="Clerestory">clerestory</a>. May also be called a <a href="/wiki/Cupola" title="Cupola">cupola</a>.</p>
+<h3><span class="mw-headline" id="Bay">Bay</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=22" title="Edit section: Bay">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Bay_window" title="Bay window">Bay window</a></div>
+<p>A multi-panel window, with at least three panels set at different angles to create a protrusion from the wall line.<sup id="cite_ref-Window_1-2" class="reference"><a href="#cite_note-Window-1"><span>[</span>1<span>]</span></a></sup></p>
+<h4><span class="mw-headline" id="Oriel">Oriel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=23" title="Edit section: Oriel">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Oriel_window" title="Oriel window">Oriel window</a></div>
+<p>This form of bay window most often appears in Tudor-style houses and monasteries. It projects from the wall and does not extend to the ground. Originally a form of porch, they are often supported by brackets or corbels.</p>
+<h3><span class="mw-headline" id="Thermal">Thermal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=24" title="Edit section: Thermal">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Diocletian_window" title="Diocletian window">Diocletian window</a></div>
+<p>Thermal, or Diocletian, windows are large semicircular windows (or niches) which are usually divided into three lights (window compartments) by two mullions. The central compartment is often wider than the two side lights on either side of it.</p>
+<h3><span class="mw-headline" id="Picture">Picture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=25" title="Edit section: Picture">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A picture window is a large fixed window in a wall, typically without glazing bars, or glazed with only perfunctory glazing bars near the edge of the window. Picture windows provide an unimpeded view, as if framing a picture.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Multi-lite">Multi-lite</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=26" title="Edit section: Multi-lite">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A window glazed with small panes of glass separated by wooden or lead <i>glazing bars</i>, or <i><a href="/wiki/Muntins" title="Muntins" class="mw-redirect">muntins</a></i>, arranged in a decorative <i>glazing pattern</i> often dictated by the building's architectural style. Due to the historic unavailability of large panes of glass, the multi-lit (or <i>lattice window</i>) was the most common window style until the beginning of the 20th century, and is still used in traditional architecture.</p>
+<h3><span class="mw-headline" id="Emergency_exit.2Fegress">Emergency exit/egress</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=27" title="Edit section: Emergency exit/egress">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A window big enough and low enough so that occupants can escape through the opening in an emergency, such as a <a href="/wiki/Fire" title="Fire">fire</a>. In many countries, exact specifications for emergency windows in bedrooms are given in many <a href="/wiki/Building_codes" title="Building codes" class="mw-redirect">building codes</a>. Specifications for such windows may also allow for the entrance of emergency rescuers. Vehicles, such as <a href="/wiki/Bus" title="Bus">buses</a> and <a href="/wiki/Aircraft" title="Aircraft">aircraft</a>, frequently have emergency exit windows as well.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Stained_glass">Stained glass</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=28" title="Edit section: Stained glass">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Stained_glass" title="Stained glass">stained glass</a></div>
+<p>A window composed of pieces of colored glass, <a href="/wiki/Transparency_(optics)" title="Transparency (optics)" class="mw-redirect">transparent, translucent</a> or <a href="/wiki/Opacity_(optics)" title="Opacity (optics)">opaque</a>, frequently portraying persons or scenes. Typically the glass in these windows is separated by lead glazing bars. Stained glass windows were popular in <a href="/wiki/Victorian_era" title="Victorian era">Victorian</a> houses and some <a href="/wiki/Frank_Lloyd_Wright" title="Frank Lloyd Wright">Wrightian</a> houses, and are especially common in <a href="/wiki/Church_(building)" title="Church (building)">churches</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="French">French</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=29" title="Edit section: French">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tmulti tright">
+<div class="thumbinner" style="width:307px;max-width:307px">
+<div class="tsingle" style="float:left;margin:1px;width:152px;max-width:152px">
+<div class="thumbimage"><a href="/wiki/File:Legation_de_France_a_Lisbonne_(interieur).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Legation_de_France_a_Lisbonne_%28interieur%29.jpg/150px-Legation_de_France_a_Lisbonne_%28interieur%29.jpg" width="150" height="104" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Legation_de_France_a_Lisbonne_%28interieur%29.jpg/225px-Legation_de_France_a_Lisbonne_%28interieur%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Legation_de_France_a_Lisbonne_%28interieur%29.jpg/300px-Legation_de_France_a_Lisbonne_%28interieur%29.jpg 2x" data-file-width="580" data-file-height="403" /></a></div>
+</div>
+<div class="tsingle" style="float:left;margin:1px;width:151px;max-width:151px">
+<div class="thumbimage"><a href="/wiki/File:Legation_de_France_a_Lisbonne_(v%C3%A9randa).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Legation_de_France_a_Lisbonne_%28v%C3%A9randa%29.jpg/149px-Legation_de_France_a_Lisbonne_%28v%C3%A9randa%29.jpg" width="149" height="104" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Legation_de_France_a_Lisbonne_%28v%C3%A9randa%29.jpg/224px-Legation_de_France_a_Lisbonne_%28v%C3%A9randa%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Legation_de_France_a_Lisbonne_%28v%C3%A9randa%29.jpg/298px-Legation_de_France_a_Lisbonne_%28v%C3%A9randa%29.jpg 2x" data-file-width="581" data-file-height="405" /></a></div>
+</div>
+<div style="clear:left"></div>
+<div class="thumbcaption" style="clear:left;text-align:left;background-color:transparent">Actual "French window" at the <a href="/wiki/List_of_diplomatic_missions_of_France" title="List of diplomatic missions of France">Embassy of France</a> in <a href="/wiki/Lisbon" title="Lisbon">Lisbon</a>, early 20th century.</div>
+</div>
+</div>
+<p>A French window (when hinged <i>French door</i>) is a large door-sized lattice light, typically set in pairs or multiples thereof. Known as <i>porte-fenêtre</i> in France and <i>portafinestra</i> in Italy, they often overlook a <a href="/wiki/Terrace_(building)" title="Terrace (building)">terrace</a> and are commonly used in modern houses. <sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<div style="clear:left;"></div>
+<h3><span class="mw-headline" id="Double-paned">Double-paned</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=30" title="Edit section: Double-paned">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Double-paned windows have two parallel panes (slabs of glass) with a separation of typically about 1&#160;cm; this space is permanently sealed and filled at the time of manufacture with dry air or other dry nonreactive gas. Such windows provide a marked improvement in thermal insulation (and usually in acoustic insulation as well) and are resistant to fogging and frosting caused by temperature differential. They are widely used for residential and commercial construction in intemperate climates. Triple-paned windows have been commercially manufactured and marketed with claims of additional benefit but have not become common.</p>
+<h2><span class="mw-headline" id="Terms">Terms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=31" title="Edit section: Terms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>EN 12519 is the European norm that describes windows terms officially used in EU Member States. The main terms are:</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Casement_(PSF).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Casement_%28PSF%29.jpg/220px-Casement_%28PSF%29.jpg" width="220" height="179" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Casement_%28PSF%29.jpg/330px-Casement_%28PSF%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Casement_%28PSF%29.jpg/440px-Casement_%28PSF%29.jpg 2x" data-file-width="526" data-file-height="428" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Casement_(PSF).jpg" class="internal" title="Enlarge"></a></div>
+Casement window, with <a href="/wiki/Latticework" title="Latticework">latticed</a> lights</div>
+</div>
+</div>
+<ul>
+<li><b>Light</b>, or <b>Lite</b>, is the area between the outer parts of a window (<a href="/wiki/Transom_(architectural)" title="Transom (architectural)">transom</a>, sill and jambs), usually filled with a glass pane. Multiple panes are divided by <a href="/wiki/Mullion" title="Mullion">mullions</a> when load-bearing, <a href="/wiki/Muntin" title="Muntin">muntins</a> when not.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li><b>Lattice light</b> is a compound window pane madeup of small pieces of glass held together in a <a href="/wiki/Latticework" title="Latticework">lattice</a>.</li>
+</ul>
+<ul>
+<li><b>Fixed window</b> is a unit of one non-moving lite. The terms <i>single-light</i>, <i>double-light</i>, etc., refer to the number of these glass panes in a window.</li>
+</ul>
+<ul>
+<li><b>Sash unit</b> is a window consisting of at least one sliding glass component, typically composed of two lites (known as a <i>double-light</i>).</li>
+</ul>
+<ul>
+<li><b>Replacement window</b> in the United States means a framed window designed to slip inside the original window frame from the inside after the old sashes are removed. In Europe it usually means a complete window including a replacement outer frame.</li>
+</ul>
+<ul>
+<li><b>New construction window</b>, in the US, means a window with a nailing fin that is inserted into a rough opening from the outside before applying siding and inside trim. A nailing fin is a projection on the outer frame of the window in the same plane as the <a href="/wiki/Glazing_in_architecture" title="Glazing in architecture" class="mw-redirect">glazing</a>, which overlaps the prepared opening, and can thus be 'nailed' into place.</li>
+</ul>
+<dl>
+<dd>In the UK and mainland Europe, windows in new-build houses are usually fixed with long screws into expanding plastic plugs in the brickwork. A gap of up to 13 mm is left around all four sides, and filled with expanding <a href="/wiki/Polyurethane_foam" title="Polyurethane foam" class="mw-redirect">polyurethane foam</a>. This makes the window fixing weatherproof but allows for expansion due to heat.</dd>
+</dl>
+<ul>
+<li><b><a href="/wiki/Lintel" title="Lintel">Lintel</a></b> is a beam over the top of a window, also known as a <a href="/wiki/Transom_(architectural)" title="Transom (architectural)">transom</a>.</li>
+</ul>
+<ul>
+<li><b><a href="/wiki/Window_sill" title="Window sill">Window sill</a></b> is the bottom piece in a window frame. Window sills slant outward to drain water away from the inside of the building.</li>
+</ul>
+<ul>
+<li><b>Secondary glazing</b> is an additional frame applied to the inside of an existing frame, usually used on protected or listed buildings to achieve higher levels of thermal and sound insulation without compromising the look of the building</li>
+</ul>
+<ul>
+<li><b><a href="/wiki/Millwork_(building_material)" title="Millwork (building material)">Decorative millwork</a> is the moulding, cornices and lintels often decorating the surrounding edges of the window.</b></li>
+</ul>
+<h3><span class="mw-headline" id="Labeling">Labeling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=32" title="Edit section: Labeling">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The United States <a href="/wiki/National_Fenestration_Rating_Council" title="National Fenestration Rating Council">NFRC</a> Window Label lists the following terms:</p>
+<ul>
+<li><a href="/wiki/Thermal_conductivity" title="Thermal conductivity">Thermal transmittance (U-factor)</a>, best values are around U-0.15 (equal to 0.8 W/m2/K)</li>
+<li><a href="/wiki/Solar_heat_gain_coefficient" title="Solar heat gain coefficient" class="mw-redirect">Solar heat gain coefficient</a> (SHGC), ratio of solar heat (infrared) passing through the glass to incident solar heat</li>
+<li><a href="/wiki/Visible_transmittance" title="Visible transmittance" class="mw-redirect">Visible transmittance</a> (VT), ratio of transmitted visible light divided by incident visible light</li>
+<li><a href="/wiki/Airflow" title="Airflow">Air leakage</a> (AL), measured in cubic foot per minute per linear foot of crack between sash and frame</li>
+<li><a href="/wiki/Damp_(structural)#Condensation" title="Damp (structural)">Condensation resistance</a> (CR), measured between 1 and 100 (the higher the number, the higher the resistance of the formation of condensation)<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></li>
+</ul>
+<p>The European harmonised standard hEN 14351-1, which deals with doors and windows, defines 23 characteristics (divided into <i>essential</i> and <i>non</i> essential<i>. Two other, preliminary European Norms that are under development deal with internal pedestrian doors (prEN 14351-2), smoke and fire resisting doors, and openable windows (prEN 16034).<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></i></p>
+<h2><span class="mw-headline" id="Construction">Construction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=33" title="Edit section: Construction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:5-chamber_plastic_window_profile.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/5-chamber_plastic_window_profile.JPG/220px-5-chamber_plastic_window_profile.JPG" width="220" height="307" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/5-chamber_plastic_window_profile.JPG/330px-5-chamber_plastic_window_profile.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/5-chamber_plastic_window_profile.JPG/440px-5-chamber_plastic_window_profile.JPG 2x" data-file-width="1951" data-file-height="2723" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:5-chamber_plastic_window_profile.JPG" class="internal" title="Enlarge"></a></div>
+5-chamber plastic window profile</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Passivhaus_Fenster_Beispiele_(blank).svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Passivhaus_Fenster_Beispiele_%28blank%29.svg/220px-Passivhaus_Fenster_Beispiele_%28blank%29.svg.png" width="220" height="120" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Passivhaus_Fenster_Beispiele_%28blank%29.svg/330px-Passivhaus_Fenster_Beispiele_%28blank%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Passivhaus_Fenster_Beispiele_%28blank%29.svg/440px-Passivhaus_Fenster_Beispiele_%28blank%29.svg.png 2x" data-file-width="530" data-file-height="290" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Passivhaus_Fenster_Beispiele_(blank).svg" class="internal" title="Enlarge"></a></div>
+Examples of modern plastic and wooden window profiles with <a href="/wiki/Insulated_glazing" title="Insulated glazing">insulated glazing</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:WaterMill_Window_LymeRegis.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/WaterMill_Window_LymeRegis.jpg/220px-WaterMill_Window_LymeRegis.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/WaterMill_Window_LymeRegis.jpg/330px-WaterMill_Window_LymeRegis.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/WaterMill_Window_LymeRegis.jpg/440px-WaterMill_Window_LymeRegis.jpg 2x" data-file-width="4272" data-file-height="2848" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:WaterMill_Window_LymeRegis.jpg" class="internal" title="Enlarge"></a></div>
+Modern wooden framed window fitted in the 14th century <a href="/wiki/Lyme_Regis" title="Lyme Regis">Lyme Regis</a> <a href="/wiki/Watermill" title="Watermill">watermill</a>, <a href="/wiki/UK" title="UK" class="mw-redirect">UK</a>.</div>
+</div>
+</div>
+<p>Windows can be a significant source of heat transfer.<sup id="cite_ref-Window_Systems_18-0" class="reference"><a href="#cite_note-Window_Systems-18"><span>[</span>18<span>]</span></a></sup> Therefore, <a href="/wiki/Insulated_glazing" title="Insulated glazing">insulated glazing units</a> consist of two or more panes to reduce the transfer of heat.</p>
+<h3><span class="mw-headline" id="Grids_or_muntins">Grids or muntins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=34" title="Edit section: Grids or muntins">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>These are the pieces of framing that separate a larger window into smaller panes. In older windows, large panes of glass were quite expensive, so muntins let smaller panes fill a larger space. In modern windows, light-colored muntins still provide a useful function by reflecting some of the light going through the window, making the window itself a source of diffuse light (instead of just the surfaces and objects illuminated within the room). By increasing the indirect illumination of surfaces near the window, muntins tend to brighten the area immediately around a window and reduce the contrast of shadows within the room.</p>
+<h3><span class="mw-headline" id="Frame_and_sash_construction">Frame and sash construction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=35" title="Edit section: Frame and sash construction">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Frames and sashes can be made of the following materials:</p>
+<table class="wikitable">
+<tr>
+<th>Material</th>
+<th><a href="/wiki/Thermal_resistance" title="Thermal resistance">Thermal resistance</a></th>
+<th>Durability</th>
+<th>Maintenance</th>
+<th>Cost</th>
+<th>Recycled content</th>
+<th>Comment</th>
+</tr>
+<tr>
+<td><a href="/wiki/Wood" title="Wood">Wood</a></td>
+<td>very good</td>
+<td>variable</td>
+<td>high</td>
+<td>high</td>
+<td>low</td>
+<td>shrinks and swells with humidity changes</td>
+</tr>
+<tr>
+<td><a href="/wiki/Polyvinyl_chloride" title="Polyvinyl chloride">PVC ("vinyl")</a></td>
+<td>very good</td>
+<td>good*</td>
+<td>low</td>
+<td>low</td>
+<td>very low</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Aluminum" title="Aluminum" class="mw-redirect">Aluminum</a></td>
+<td>bad**</td>
+<td>good</td>
+<td>very low</td>
+<td>low</td>
+<td>typically &gt;&#160;95%</td>
+<td>used in most large structures</td>
+</tr>
+<tr>
+<td><a href="/wiki/Steel" title="Steel">Steel</a></td>
+<td>medium</td>
+<td>superior</td>
+<td>very low</td>
+<td>high</td>
+<td>&gt;&#160;98%</td>
+<td>typically welded at corner joints</td>
+</tr>
+<tr>
+<td><a href="/wiki/Fiberglass" title="Fiberglass">Fiberglass</a></td>
+<td>very good</td>
+<td>very good*</td>
+<td>very low</td>
+<td>high</td>
+<td>medium</td>
+<td></td>
+</tr>
+</table>
+<p>* PVC and fiberglass frames perform well in accelerated weathering tests. Because PVC is not as strong as other materials, some PVC frames are reinforced with metal or composite materials to improve their structural strength.</p>
+<p>** Modern aluminium window frames are typically separated by a <a href="/wiki/Thermal_break" title="Thermal break">thermal break</a> made of a polyamide. This greatly increases thermal resistance, while retaining virtually all of the structural strength.</p>
+<p><a href="/wiki/Composite_material" title="Composite material">Composites</a> may combine materials to obtain aesthetics of one material with the functional benefits of another.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bleekman_zimmer.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bleekman_zimmer.jpg/220px-Bleekman_zimmer.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bleekman_zimmer.jpg/330px-Bleekman_zimmer.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bleekman_zimmer.jpg/440px-Bleekman_zimmer.jpg 2x" data-file-width="2592" data-file-height="1944" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bleekman_zimmer.jpg" class="internal" title="Enlarge"></a></div>
+A typical installation of insulated glazing windows with uPVC window frames.</div>
+</div>
+</div>
+<p>A special class of PVC window frames, uPVC window frames, became widespread since the late 20th century, particularly in Europe: there were 83.5 million installed by 1998<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> with numbers still growing as of 2012.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Glazing_and_filling">Glazing and filling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=36" title="Edit section: Glazing and filling">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Low-emissivity" title="Low-emissivity" class="mw-redirect">Low-emissivity</a> coated panes reduce heat transfer by <a href="/wiki/Radiation" title="Radiation">radiation</a>, which, depending on which surface is coated, helps prevent heat loss (in cold climates) or heat gains (in warm climates).</p>
+<p>High thermal resistance can be obtained by evacuating or filling the insulated glazing units with gases such as <a href="/wiki/Argon" title="Argon">argon</a> or <a href="/wiki/Krypton" title="Krypton">krypton</a>, which reduces <a href="/wiki/Heat_conduction" title="Heat conduction" class="mw-redirect">conductive</a> heat transfer due to their low thermal conductivity. Performance of such units depends on good window seals and meticulous frame construction to prevent entry of air and loss of efficiency.</p>
+<p>Modern double-pane and triple-pane windows often include one or more low-e coatings to reduce the window's U-factor (its insulation value, specifically its rate of heat loss). In general, soft-coat low-e coatings tend to result in a lower solar heat gain coefficient (SHGC) than hard-coat low-e coatings.</p>
+<p>Modern windows are usually glazed with one large sheet of glass per sash, while windows in the past were glazed with multiple panes separated by <i>glazing bars</i>, or <i>muntins</i>, due to the unavailability of large sheets of glass. Today, glazing bars tend to be decorative, separating windows into small panes of glass even though larger panes of glass are available, generally in a pattern dictated by the architectural style at use. Glazing bars are typically wooden, but occasionally lead glazing bars soldered in place are used for more intricate glazing patterns.</p>
+<h3><span class="mw-headline" id="Other_construction_details">Other construction details</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=37" title="Edit section: Other construction details">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Many windows have movable <a href="/wiki/Window_covering" title="Window covering">window coverings</a> such as <a href="/wiki/Blinds" title="Blinds" class="mw-redirect">blinds</a> or <a href="/wiki/Curtain" title="Curtain">curtains</a> to keep out light, provide additional insulation, or ensure privacy. Windows allow natural light to enter, but too much can have negative effects such as glare and heat gain. Additionally, while windows let the user see outside, there must be a way to maintain privacy on in the inside.<sup id="cite_ref-Design_Evaluation_Project_21-0" class="reference"><a href="#cite_note-Design_Evaluation_Project-21"><span>[</span>21<span>]</span></a></sup> Window coverings are practical accommodations for these issues.</p>
+<h2><span class="mw-headline" id="Windows_and_the_sun">Windows and the sun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=38" title="Edit section: Windows and the sun">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Daylighting" title="Daylighting">Daylighting</a></div>
+<h3><span class="mw-headline" id="Sun_incidence_angle">Sun incidence angle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=39" title="Edit section: Sun incidence angle">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Historically, windows are designed with surfaces parallel to vertical building walls. Such a design allows considerable solar light and heat penetration due to the most commonly occurring incidence of sun angles. In <a href="/wiki/Passive_solar_building_design" title="Passive solar building design">passive solar building design</a>, an extended <a href="/wiki/Eave" title="Eave" class="mw-redirect">eave</a> is typically used to control the amount of solar light and heat entering the window(s).</p>
+<p>An alternative method is to calculate an optimum window mounting angle that accounts for summer sun load minimization, with consideration of actual latitude of the building. This process has been implemented, for example, in the <a href="/wiki/Dakin_Building" title="Dakin Building">Dakin Building</a> in <a href="/wiki/Brisbane,_California" title="Brisbane, California">Brisbane, California</a>—in which most of the fenestration is designed to reflect summer heat load and help prevent summer interior <a href="/wiki/Over-illumination" title="Over-illumination">over-illumination</a> and glare, by canting windows to nearly a 45 degree angle.</p>
+<h3><span class="mw-headline" id="Solar_window">Solar window</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=40" title="Edit section: Solar window">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></div>
+<p>Photovoltaic windows not only provide a clear view and illuminate rooms, but also convert sunlight to electricity for the building.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup> In most cases, translucent photovoltaic cells are used.</p>
+<h3><span class="mw-headline" id="Passive_solar">Passive solar</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=41" title="Edit section: Passive solar">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Passive solar windows allow light and solar energy into a building while minimizing air leakage and heat loss. Properly positioning these windows in relation to sun, wind, and landscape—while properly shading them to limit excess heat gain in summer and shoulder seasons, and providing thermal mass to absorb energy during the day and release it when temperatures cool at night—increases comfort and energy efficiency. Properly designed in climates with adequate solar gain, these can even be a building's primary heating system.</p>
+<h3><span class="mw-headline" id="Window_coverings">Window coverings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=42" title="Edit section: Window coverings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A <a href="/wiki/Window_covering" title="Window covering">window covering</a> is a shade or screen that provides multiple functions. For example, some window coverings control solar heat gain and glare. There are external shading devices and internal shading devices.<sup id="cite_ref-Windows_23-0" class="reference"><a href="#cite_note-Windows-23"><span>[</span>23<span>]</span></a></sup> Low-e <a href="/wiki/Window_film" title="Window film">window film</a> is a low-cost alternative to window replacement to transform existing poorly-insulating windows into energy-efficient windows. For high-rise buildings, <a href="/wiki/Smart_glass" title="Smart glass">smart glass</a> can provide an alternative.</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=43" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:19.5px auto;"><a href="/wiki/File:TeaHouseWindowInuYama.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/TeaHouseWindowInuYama.jpg/120px-TeaHouseWindowInuYama.jpg" width="120" height="111" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/TeaHouseWindowInuYama.jpg/180px-TeaHouseWindowInuYama.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/TeaHouseWindowInuYama.jpg/240px-TeaHouseWindowInuYama.jpg 2x" data-file-width="1024" data-file-height="946" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Woven <a href="/wiki/Bamboo" title="Bamboo">bamboo</a> window in <a href="/wiki/Japan" title="Japan">Japan</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Obereisesheim_Mauritiuskirche03.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Obereisesheim_Mauritiuskirche03.JPG/90px-Obereisesheim_Mauritiuskirche03.JPG" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Obereisesheim_Mauritiuskirche03.JPG/135px-Obereisesheim_Mauritiuskirche03.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/Obereisesheim_Mauritiuskirche03.JPG/180px-Obereisesheim_Mauritiuskirche03.JPG 2x" data-file-width="2136" data-file-height="2848" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Church window</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Berlin-K%C3%B6penick_-_Spindlerwerke_6.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Berlin-K%C3%B6penick_-_Spindlerwerke_6.jpg/90px-Berlin-K%C3%B6penick_-_Spindlerwerke_6.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Berlin-K%C3%B6penick_-_Spindlerwerke_6.jpg/135px-Berlin-K%C3%B6penick_-_Spindlerwerke_6.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Berlin-K%C3%B6penick_-_Spindlerwerke_6.jpg/180px-Berlin-K%C3%B6penick_-_Spindlerwerke_6.jpg 2x" data-file-width="1200" data-file-height="1600" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Factory site in Berlin-Spindlersfeld: window with letter S for Spindler</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Lan_Su_Chinese_Garden,_Portland,_OR_2012_-_window.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lan_Su_Chinese_Garden%2C_Portland%2C_OR_2012_-_window.JPG/120px-Lan_Su_Chinese_Garden%2C_Portland%2C_OR_2012_-_window.JPG" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lan_Su_Chinese_Garden%2C_Portland%2C_OR_2012_-_window.JPG/180px-Lan_Su_Chinese_Garden%2C_Portland%2C_OR_2012_-_window.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Lan_Su_Chinese_Garden%2C_Portland%2C_OR_2012_-_window.JPG/240px-Lan_Su_Chinese_Garden%2C_Portland%2C_OR_2012_-_window.JPG 2x" data-file-width="4000" data-file-height="3000" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Classical Chinese window in <a href="/wiki/Lan_Su_Chinese_Garden" title="Lan Su Chinese Garden">Lan Su Chinese Garden</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Doubled_window.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Doubled_window.jpg/119px-Doubled_window.jpg" width="119" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/6/6c/Doubled_window.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/6/6c/Doubled_window.jpg 2x" data-file-width="150" data-file-height="151" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Arab-style windows in <a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Arles-abadia-3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Arles-abadia-3.jpg/93px-Arles-abadia-3.jpg" width="93" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Arles-abadia-3.jpg/140px-Arles-abadia-3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Arles-abadia-3.jpg/186px-Arles-abadia-3.jpg 2x" data-file-width="621" data-file-height="800" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Romanesque_architecture" title="Romanesque architecture">Romanesque</a>/<a href="/wiki/Gothic_architecture" title="Gothic architecture">Gothic</a> window from Abbey of St. Maria d'Arles</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:33px auto;"><a href="/wiki/File:Desay_madu_jhya.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Desay_madu_jhya.jpg/120px-Desay_madu_jhya.jpg" width="120" height="84" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Desay_madu_jhya.jpg/180px-Desay_madu_jhya.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Desay_madu_jhya.jpg/240px-Desay_madu_jhya.jpg 2x" data-file-width="1431" data-file-height="1000" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Desay_Madu_Jhya_(window)" title="Desay Madu Jhya (window)" class="mw-redirect">Desay Madu Jhya</a> traditional carved wooden window in <a href="/wiki/Kathmandu" title="Kathmandu">Kathmandu</a>, <a href="/wiki/Nepal" title="Nepal">Nepal</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Half_Glazed_Window_17th_Century.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Half_Glazed_Window_17th_Century.jpg/94px-Half_Glazed_Window_17th_Century.jpg" width="94" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Half_Glazed_Window_17th_Century.jpg/141px-Half_Glazed_Window_17th_Century.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Half_Glazed_Window_17th_Century.jpg/187px-Half_Glazed_Window_17th_Century.jpg 2x" data-file-width="1088" data-file-height="1392" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A half-glazed window of the 17th century from <a href="/wiki/Scotland" title="Scotland">Scotland</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:29.5px auto;"><a href="/wiki/File:Washington_DC_windows.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Washington_DC_windows.jpg/120px-Washington_DC_windows.jpg" width="120" height="91" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Washington_DC_windows.jpg/180px-Washington_DC_windows.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Washington_DC_windows.jpg/240px-Washington_DC_windows.jpg 2x" data-file-width="483" data-file-height="366" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Windows of a brick building in Washington DC</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Villa_Majorelle_fen%C3%A8tre_02_by_Line1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Villa_Majorelle_fen%C3%A8tre_02_by_Line1.jpg/90px-Villa_Majorelle_fen%C3%A8tre_02_by_Line1.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Villa_Majorelle_fen%C3%A8tre_02_by_Line1.jpg/135px-Villa_Majorelle_fen%C3%A8tre_02_by_Line1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Villa_Majorelle_fen%C3%A8tre_02_by_Line1.jpg/180px-Villa_Majorelle_fen%C3%A8tre_02_by_Line1.jpg 2x" data-file-width="2112" data-file-height="2816" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Window, <a href="/wiki/Villa_Majorelle" title="Villa Majorelle" class="mw-redirect">Villa Majorelle</a>, France</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Asymmetrische_Fenster.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Asymmetrische_Fenster.JPG/90px-Asymmetrische_Fenster.JPG" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Asymmetrische_Fenster.JPG/135px-Asymmetrische_Fenster.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Asymmetrische_Fenster.JPG/180px-Asymmetrische_Fenster.JPG 2x" data-file-width="3216" data-file-height="4288" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Asymmetrical windows at a building in the backyard of an arts museum in <a href="/wiki/Osnabr%C3%BCck" title="Osnabrück">Osnabrück</a>, Germany</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Wooden_Window.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wooden_Window.JPG/86px-Wooden_Window.JPG" width="86" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wooden_Window.JPG/129px-Wooden_Window.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wooden_Window.JPG/173px-Wooden_Window.JPG 2x" data-file-width="1500" data-file-height="2085" /></a></div>
+</div>
+<div class="gallerytext">
+<p>An old decorated wooden window</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=44" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 11em; -webkit-column-width: 11em; column-width: 11em;">
+<ul>
+<li><a href="/wiki/Airflow_window" title="Airflow window">Airflow window</a></li>
+<li><a href="/wiki/Display_window" title="Display window">Display window</a></li>
+<li><a href="/wiki/G-factor_(physics)" title="G-factor (physics)">g-factor (physics)</a></li>
+<li><a href="/wiki/Glass_mullion_system" title="Glass mullion system">Glass mullion system</a></li>
+<li><a href="/wiki/Insulated_glazing" title="Insulated glazing">Insulated glazing</a></li>
+<li><a href="/wiki/Porthole" title="Porthole">Porthole</a></li>
+<li><a href="/wiki/Rose_window" title="Rose window">Rose window</a></li>
+<li><a href="/wiki/Window_tax" title="Window tax">Window tax</a></li>
+<li><a href="/wiki/Window_treatment" title="Window treatment">Window treatment</a></li>
+<li><a href="/wiki/Witch_window" title="Witch window">Witch window</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=45" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Window-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Window_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Window_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Window_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thefreedictionary.com/window">/ "Window"</a> <span style="font-size:100%" class="error citation-comment">Check <code style="color:inherit; border:inherit; padding:inherit;"><code style="color:inherit; border:inherit; padding:inherit;">|url=</code></code> value (<a href="/wiki/Help:CS1_errors#bad_url" title="Help:CS1 errors">help</a>)</span>. The Free Dictionary By Farlex<span class="reference-accessdate">. Retrieved <span class="nowrap">May 19,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindow&amp;rft.btitle=Window&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.thefreedictionary.com%2Fwindow+%2F&amp;rft.pub=The+Free+Dictionary+By+Farlex&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-britannica.com-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-britannica.com_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-britannica.com_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-britannica.com_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-britannica.com_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.britannica.com/EBchecked/topic/645175/window">"Window"</a>. Britannica<span class="reference-accessdate">. Retrieved <span class="nowrap">May 19,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindow&amp;rft.btitle=Window&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.britannica.com%2FEBchecked%2Ftopic%2F645175%2Fwindow&amp;rft.pub=Britannica&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cmhc-schl.gc.ca/en/co/renoho/refash/refash_022.cfm">"Understanding Window Terminology"</a>. Canada Mortgage and Housing Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">May 19,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindow&amp;rft.btitle=Understanding+Window+Terminology&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cmhc-schl.gc.ca%2Fen%2Fco%2Frenoho%2Frefash%2Frefash_022.cfm&amp;rft.pub=Canada+Mortgage+and+Housing+Corporation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.oxfordreference.com">"New Oxford American Dictionary"</a>. 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindow&amp;rft.btitle=New+Oxford+American+Dictionary&amp;rft.date=2010&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.oxfordreference.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Langley, Andrew (2011). <i>Medieval Life</i>. Eyewitness. Dorling Kindersley. p.&#160;16. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-4053-4545-4" title="Special:BookSources/1-4053-4545-4">1-4053-4545-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindow&amp;rft.aufirst=Andrew&amp;rft.aulast=Langley&amp;rft.btitle=Medieval+Life&amp;rft.date=2011&amp;rft.genre=book&amp;rft.isbn=1-4053-4545-4&amp;rft.pages=16&amp;rft.pub=Dorling+Kindersley&amp;rft.series=Eyewitness&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Harris, Cyril M.. <i>American architecture: an illustrated encyclopedia</i>. New York: W.W. Norton, 1998. Print.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Allen, Edward; Thallon, Rob (2011). <i>Fundamentals of Residential Construction</i> (3 ed.). Hoboken, NJ: Wiley. p.&#160;654. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-470-54083-1" title="Special:BookSources/978-0-470-54083-1">978-0-470-54083-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindow&amp;rft.aufirst=Edward&amp;rft.aulast=Allen&amp;rft.au=Thallon%2C+Rob&amp;rft.btitle=Fundamentals+of+Residential+Construction&amp;rft.date=2011&amp;rft.edition=3&amp;rft.genre=book&amp;rft.isbn=978-0-470-54083-1&amp;rft.pages=654&amp;rft.place=Hoboken%2C+NJ&amp;rft.pub=Wiley&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.windowanddoor.com/article/products/will-tilt-and-turn-windows-gain-market-share-north-america?page=0%2C1">"Will Tilt-and-Turn Windows Gain Market Share in North America? | Window &amp; Door"</a>. Windowanddoor.com. March 29, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">February 11,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindow&amp;rft.btitle=Will+Tilt-and-Turn+Windows+Gain+Market+Share+in+North+America%3F+%26%23124%3B+Window+%26+Door&amp;rft.date=2010-03-29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.windowanddoor.com%2Farticle%2Fproducts%2Fwill-tilt-and-turn-windows-gain-market-share-north-america%3Fpage%3D0%252C1&amp;rft.pub=Windowanddoor.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Curl, James Stevens. "Flanking window". <i>A dictionary of architecture and landscape architecture</i>. 2nd ed. Oxford England: Oxford University Press, 2006. 285. Print.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.roofingnetworks.com/info/types-of-skylights/">"Types of Skylights – All You Need to Know"</a>. Networx<span class="reference-accessdate">. Retrieved <span class="nowrap">May 19,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindow&amp;rft.btitle=Types+of+Skylights+%93+All+You+Need+to+Know&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.roofingnetworks.com%2Finfo%2Ftypes-of-skylights%2F&amp;rft.pub=Networx&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thefreedictionary.com/picture+window">"Picture window"</a>. The Free Dictionary By Farlex<span class="reference-accessdate">. Retrieved <span class="nowrap">May 19,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindow&amp;rft.btitle=Picture+window&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.thefreedictionary.com%2Fpicture%2Bwindow&amp;rft.pub=The+Free+Dictionary+By+Farlex&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fmcsa.dot.gov/documents/outreach/bus/PreTrip-SafetyBrochure-Pull.pdf">"U.S. Dept. of Transportation: Safety information for bus/motorcoach passengers"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">February 11,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindow&amp;rft.btitle=U.S.+Dept.+of+Transportation%3A+Safety+information+for+bus%2Fmotorcoach+passengers&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.fmcsa.dot.gov%2Fdocuments%2Foutreach%2Fbus%2FPreTrip-SafetyBrochure-Pull.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thefreedictionary.com/stained+glass+window">"Stained glass"</a>. The Free Dictionary By Farlex<span class="reference-accessdate">. Retrieved <span class="nowrap">May 19,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindow&amp;rft.btitle=Stained+glass&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.thefreedictionary.com%2Fstained%2Bglass%2Bwindow&amp;rft.pub=The+Free+Dictionary+By+Farlex&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thefreedictionary.com/French+window">"French Window"</a>. The Free Dictionary By Farlex<span class="reference-accessdate">. Retrieved <span class="nowrap">May 19,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindow&amp;rft.btitle=French+Window&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.thefreedictionary.com%2FFrench%2Bwindow&amp;rft.pub=The+Free+Dictionary+By+Farlex&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation book">Brett, Peter (2004). <i>Carpentry and Joinery</i> (2, illustrated ed.). Nelson Thornes. p.&#160;<a rel="nofollow" class="external text" href="http://books.google.com/books?id=iVthU6rPGK8C&amp;pg=PA225#v=onepage&amp;q&amp;f=false">255</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780748785025" title="Special:BookSources/9780748785025">9780748785025</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindow&amp;rft.aufirst=Peter&amp;rft.aulast=Brett&amp;rft.btitle=Carpentry+and+Joinery&amp;rft.date=2004&amp;rft.edition=2%2C+illustrated&amp;rft.genre=book&amp;rft.isbn=9780748785025&amp;rft.pages=255&amp;rft.pub=Nelson+Thornes&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nfrc.org/documents/WindowsandHeatLoss.pdf">Windows and Heat Loss</a>, <a href="/wiki/NFRC" title="NFRC" class="mw-redirect">NFRC</a> Heat Loss Fact Sheet</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.alueurope.eu/wp-content/uploads/2012/12/CPR_guideline_Dec_2012_ver-1.pdf">CPR guideline</a></span></li>
+<li id="cite_note-Window_Systems-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Window_Systems_18-0">^</a></b></span> <span class="reference-text">Carmody, J., Selkowitz, S., Lee, E. S., Arasteh, D., &amp; Willmert, T. (2004). <i>Window Systems for High-Performance Buildings</i>. New York, NY: W. W. Norton &amp; Company, Inc.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation book">Pritchard, Geoffrey (1999). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=U3GWoyuMEckC&amp;pg=PA95"><i>Novel and Traditional Fillers for Plastics: Technology and Market Developments</i></a>. iSmithers Rapra Publishing. p.&#160;95. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781859571835" title="Special:BookSources/9781859571835">9781859571835</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindow&amp;rft.aufirst=Geoffrey&amp;rft.aulast=Pritchard&amp;rft.btitle=Novel+and+Traditional+Fillers+for+Plastics%3A+Technology+and+Market+Developments&amp;rft.date=1999&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DU3GWoyuMEckC%26pg%3DPA95&amp;rft.isbn=9781859571835&amp;rft.pages=95&amp;rft.pub=iSmithers+Rapra+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.prweb.com/releases/Vinyl_doors_market/vinyl_windows_market/prweb9415523.htm">"Global Vinyl Windows Market to Reach 163 Million Units by 2017, According to a New Report by Global Industry Analysts, Inc."</a>. PRWeb. April 18, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">February 11,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindow&amp;rft.btitle=Global+Vinyl+Windows+Market+to+Reach+163+Million+Units+by+2017%2C+According+to+a+New+Report+by+Global+Industry+Analysts%2C+Inc.&amp;rft.date=2012-04-18&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.prweb.com%2Freleases%2FVinyl_doors_market%2Fvinyl_windows_market%2Fprweb9415523.htm&amp;rft.pub=PRWeb&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Design_Evaluation_Project-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Design_Evaluation_Project_21-0">^</a></b></span> <span class="reference-text">Howell, Sandra C. (1976). <i>Designing for the Elderly; Windows</i>. Massachusetts Institute of Technology. Department of Architecture. Design Evaluation Project.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://web.mit.edu/newsoffice/2008/solarcells-0710.html">"MIT opens new 'window' on solar energy"</a>. Web.mit.edu. July 10, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">February 11,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWindow&amp;rft.btitle=MIT+opens+new+%27window%27+on+solar+energy&amp;rft.date=2008-07-10&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fweb.mit.edu%2Fnewsoffice%2F2008%2Fsolarcells-0710.html&amp;rft.pub=Web.mit.edu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Windows-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-Windows_23-0">^</a></b></span> <span class="reference-text">Beckett, H. E., &amp; Godfrey, J. A. (1974). <i>Windows: Performance, design and installation</i>. New York, NY: Van Nostrand Reinhold Company.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Window&amp;action=edit&amp;section=46" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png" width="37" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/55px-Wiktionary-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/73px-Wiktionary-logo-en.svg.png 2x" data-file-width="1000" data-file-height="1089" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="//en.wiktionary.org/wiki/Special:Search/window" class="extiw" title="wiktionary:Special:Search/window">window</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Windows" class="extiw" title="commons:Category:Windows">Windows</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.alueurope.eu/publications-building/">European Aluminium Association's publications dedicated to Buildings</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.metmuseum.org/toah/hd/rgls/hd_rgls.htm">Roman Glass from Metropolitan Museum of Art</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.nfrc.org">National Fenestration Rating Council</a> (NFRC), a non-profit organization, administers an independent, uniform rating and labeling system for the energy performance of fenestration products. NFRC is the "engine" that drives virtually every window energy efficiency program in the country including ENERGY STAR (the U.S Government Sponsored Initiative).</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4016740-9">4016740-9</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00567377">00567377</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1189
+Cached time: 20160121155713
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.412 seconds
+Real time usage: 0.518 seconds
+Preprocessor visited node count: 2087/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 34628/2097152 bytes
+Template argument size: 1541/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Lua time usage: 0.134/10.000 seconds
+Lua memory usage: 4.19 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  382.066      1 - -total
+ 33.81%  129.171      1 - Template:Reflist
+ 19.98%   76.320     12 - Template:Cite_web
+  8.66%   33.093      1 - Template:Citation_needed
+  7.80%   29.816      1 - Template:Fix
+  7.00%   26.757      1 - Template:Authority_control
+  7.00%   26.734      2 - Template:Category_handler
+  6.94%   26.526      1 - Template:Use_mdy_dates
+  5.79%   22.109      4 - Template:Cite_book
+  5.60%   21.387     10 - Template:Main
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:49400-0!*!0!!en!4!* and timestamp 20160121155712 and revision id 700946945
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Window&amp;oldid=700946945">https://en.wikipedia.org/w/index.php?title=Window&amp;oldid=700946945</a>"					</div>
+				<div id='catlinks' class='catlinks' data-mw='interface'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Windows" title="Category:Windows">Windows</a></li><li><a href="/wiki/Category:Architectural_elements" title="Category:Architectural elements">Architectural elements</a></li><li><a href="/wiki/Category:Glass" title="Category:Glass">Glass</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_URL_errors" title="Category:Pages with URL errors">Pages with URL errors</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_July_2015" title="Category:Use mdy dates from July 2015">Use mdy dates from July 2015</a></li><li><a href="/wiki/Category:Wikipedia_indefinitely_move-protected_pages" title="Category:Wikipedia indefinitely move-protected pages">Wikipedia indefinitely move-protected pages</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2013" title="Category:Articles with unsourced statements from November 2013">Articles with unsourced statements from November 2013</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Window&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Window" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Window"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Window"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Window" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Window&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Window&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Window" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Window" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Window&amp;oldid=700946945" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Window&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q35473" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Window&amp;id=700946945" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Window">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Window&amp;returnto=Window&amp;oldid=700946945&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Window&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="//af.wikipedia.org/wiki/Venster" title="Venster – Afrikaans" lang="af" hreflang="af">Afrikaans</a></li><li class="interlanguage-link interwiki-am"><a href="//am.wikipedia.org/wiki/%E1%88%98%E1%88%B5%E1%8A%AE%E1%89%B5" title="መስኮት – Amharic" lang="am" hreflang="am">አማርኛ</a></li><li class="interlanguage-link interwiki-ang"><a href="//ang.wikipedia.org/wiki/%C4%92agduru" title="Ēagduru – Old English" lang="ang" hreflang="ang">Ænglisc</a></li><li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%86%D8%A7%D9%81%D8%B0%D8%A9" title="نافذة – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="//an.wikipedia.org/wiki/Finestra" title="Finestra – Aragonese" lang="an" hreflang="an">Aragonés</a></li><li class="interlanguage-link interwiki-arc"><a href="//arc.wikipedia.org/wiki/%DC%9F%DC%98%DC%AC%DC%90" title="ܟܘܬܐ – Aramaic" lang="arc" hreflang="arc">ܐܪܡܝܐ</a></li><li class="interlanguage-link interwiki-roa-rup"><a href="//roa-rup.wikipedia.org/wiki/Firid%C3%A2" title="Firidâ – Aromanian" lang="roa-rup" hreflang="roa-rup">Armãneashti</a></li><li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/P%C9%99nc%C9%99r%C9%99" title="Pəncərə – Azerbaijani" lang="az" hreflang="az">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A6%BE" title="জানালা – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-bjn"><a href="//bjn.wikipedia.org/wiki/Lalungkang" title="Lalungkang – Banjar" lang="bjn" hreflang="bjn">Bahasa Banjar</a></li><li class="interlanguage-link interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%90%D0%BA%D0%BD%D0%BE" title="Акно – Belarusian" lang="be" hreflang="be">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%90%D0%BA%D0%BD%D0%BE" title="Акно – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B7%D0%BE%D1%80%D0%B5%D1%86" title="Прозорец – Bulgarian" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-br"><a href="//br.wikipedia.org/wiki/Prenestr" title="Prenestr – Breton" lang="br" hreflang="br">Brezhoneg</a></li><li class="interlanguage-link interwiki-bxr"><a href="//bxr.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BD%D1%85%D0%BE" title="Сонхо – буряад" lang="bxr" hreflang="bxr">Буряад</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Finestra" title="Finestra – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="//ceb.wikipedia.org/wiki/Bintana" title="Bintana – Cebuano" lang="ceb" hreflang="ceb">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Okno" title="Okno – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="//cy.wikipedia.org/wiki/Ffenestr" title="Ffenestr – Welsh" lang="cy" hreflang="cy">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Vindue" title="Vindue – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Fenster" title="Fenster – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-dsb"><a href="//dsb.wikipedia.org/wiki/Wokno" title="Wokno – Lower Sorbian" lang="dsb" hreflang="dsb">Dolnoserbski</a></li><li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Aken" title="Aken – Estonian" lang="et" hreflang="et">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%A0%CE%B1%CF%81%CE%AC%CE%B8%CF%85%CF%81%CE%BF" title="Παράθυρο – Greek" lang="el" hreflang="el">Ελληνικά</a></li><li class="interlanguage-link interwiki-eml"><a href="//eml.wikipedia.org/wiki/Fn%C3%A8stra" title="Fnèstra – Emiliano-Romagnolo" lang="eml" hreflang="eml">Emiliàn e rumagnòl</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Ventana" title="Ventana – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Fenestro" title="Fenestro – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Leiho" title="Leiho – Basque" lang="eu" hreflang="eu">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%BE%D9%86%D8%AC%D8%B1%D9%87" title="پنجره – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Fen%C3%AAtre" title="Fenêtre – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="//ga.wikipedia.org/wiki/Fuinneog" title="Fuinneog – Irish" lang="ga" hreflang="ga">Gaeilge</a></li><li class="interlanguage-link interwiki-gd"><a href="//gd.wikipedia.org/wiki/Uinneag" title="Uinneag – Scottish Gaelic" lang="gd" hreflang="gd">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/Fiestra" title="Fiestra – Galician" lang="gl" hreflang="gl">Galego</a></li><li class="interlanguage-link interwiki-xal"><a href="//xal.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%B7" title="Терз – Kalmyk" lang="xal" hreflang="xal">Хальмг</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%B0%BD_(%EA%B1%B4%EC%B6%95)" title="창 (건축) – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D5%8A%D5%A1%D5%BF%D5%B8%D6%82%D5%B0%D5%A1%D5%B6" title="Պատուհան – Armenian" lang="hy" hreflang="hy">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%96%E0%A4%BF%E0%A4%A1%E0%A4%BC%E0%A4%95%E0%A5%80" title="खिड़की – Hindi" lang="hi" hreflang="hi">हिन्दी</a></li><li class="interlanguage-link interwiki-hsb"><a href="//hsb.wikipedia.org/wiki/Wokno" title="Wokno – Upper Sorbian" lang="hsb" hreflang="hsb">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Prozor" title="Prozor – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="//io.wikipedia.org/wiki/Fenestro" title="Fenestro – Ido" lang="io" hreflang="io">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Jendela" title="Jendela – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-xh"><a href="//xh.wikipedia.org/wiki/Ifestile" title="Ifestile – Xhosa" lang="xh" hreflang="xh">IsiXhosa</a></li><li class="interlanguage-link interwiki-is"><a href="//is.wikipedia.org/wiki/Gluggi" title="Gluggi – Icelandic" lang="is" hreflang="is">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Finestra" title="Finestra – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%97%D7%9C%D7%95%D7%9F" title="חלון – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-kn"><a href="//kn.wikipedia.org/wiki/%E0%B2%95%E0%B2%BF%E0%B2%9F%E0%B2%95%E0%B2%BF" title="ಕಿಟಕಿ – Kannada" lang="kn" hreflang="kn">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%A4%E1%83%90%E1%83%9C%E1%83%AF%E1%83%90%E1%83%A0%E1%83%90" title="ფანჯარა – Georgian" lang="ka" hreflang="ka">ქართული</a></li><li class="interlanguage-link interwiki-ht"><a href="//ht.wikipedia.org/wiki/Fen%C3%A8t" title="Fenèt – Haitian Creole" lang="ht" hreflang="ht">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ku"><a href="//ku.wikipedia.org/wiki/Pencere" title="Pencere – Kurdish" lang="ku" hreflang="ku">Kurdî</a></li><li class="interlanguage-link interwiki-la"><a href="//la.wikipedia.org/wiki/Fenestra" title="Fenestra – Latin" lang="la" hreflang="la">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="//lv.wikipedia.org/wiki/Logs" title="Logs – Latvian" lang="lv" hreflang="lv">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a href="//lb.wikipedia.org/wiki/F%C3%ABnster_(Gebai)" title="Fënster (Gebai) – Luxembourgish" lang="lb" hreflang="lb">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/Langas" title="Langas – Lithuanian" lang="lt" hreflang="lt">Lietuvių</a></li><li class="interlanguage-link interwiki-ln"><a href="//ln.wikipedia.org/wiki/Linin%C3%ADsa" title="Lininísa – Lingala" lang="ln" hreflang="ln">Lingála</a></li><li class="interlanguage-link interwiki-lmo"><a href="//lmo.wikipedia.org/wiki/Fenestra" title="Fenestra – Lombard" lang="lmo" hreflang="lmo">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Ablak_(%C3%A9p%C3%BCletszerkezet)" title="Ablak (épületszerkezet) – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="//ms.wikipedia.org/wiki/Tingkap" title="Tingkap – Malay" lang="ms" hreflang="ms">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-cdo"><a href="//cdo.wikipedia.org/wiki/K%C4%81ng-mu%C3%B2ng-gi%C4%81ng" title="Kāng-muòng-giāng – Min Dong Chinese" lang="cdo" hreflang="cdo">Mìng-dĕ̤ng-ngṳ̄</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Venster_(muur)" title="Venster (muur) – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-nds-nl"><a href="//nds-nl.wikipedia.org/wiki/Vienster" title="Vienster – Low Saxon" lang="nds-NL" hreflang="nds-NL">Nedersaksies</a></li><li class="interlanguage-link interwiki-new"><a href="//new.wikipedia.org/wiki/%E0%A4%9D%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%83" title="झ्याः – Newari" lang="new" hreflang="new">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E7%AA%93" title="窓 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-nap"><a href="//nap.wikipedia.org/wiki/Fenesta" title="Fenesta – Neapolitan" lang="nap" hreflang="nap">Napulitano</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Vindu" title="Vindu – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="//nn.wikipedia.org/wiki/Vindauge" title="Vindauge – Norwegian Nynorsk" lang="nn" hreflang="nn">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-nrm"><a href="//nrm.wikipedia.org/wiki/F%27n%C3%AAt%27" title="F'nêt' – Nouormand" lang="nrm" hreflang="nrm">Nouormand</a></li><li class="interlanguage-link interwiki-oc"><a href="//oc.wikipedia.org/wiki/Fen%C3%A8stra" title="Fenèstra – Occitan" lang="oc" hreflang="oc">Occitan</a></li><li class="interlanguage-link interwiki-mhr"><a href="//mhr.wikipedia.org/wiki/%D0%A2%D3%A7%D1%80%D0%B7%D0%B0" title="Тӧрза – Eastern Mari" lang="mhr" hreflang="mhr">Олык марий</a></li><li class="interlanguage-link interwiki-ps"><a href="//ps.wikipedia.org/wiki/%DA%A9%DA%93%DA%A9%DB%8D" title="کړکۍ – Pashto" lang="ps" hreflang="ps">پښتو</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Okno" title="Okno – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Janela" title="Janela – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Fereastr%C4%83" title="Fereastră – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-qu"><a href="//qu.wikipedia.org/wiki/Wintana" title="Wintana – Quechua" lang="qu" hreflang="qu">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9E%D0%BA%D0%BD%D0%BE" title="Окно – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sc"><a href="//sc.wikipedia.org/wiki/Ventana" title="Ventana – Sardinian" lang="sc" hreflang="sc">Sardu</a></li><li class="interlanguage-link interwiki-sco"><a href="//sco.wikipedia.org/wiki/Windae" title="Windae – Scots" lang="sco" hreflang="sco">Scots</a></li><li class="interlanguage-link interwiki-scn"><a href="//scn.wikipedia.org/wiki/Finestra" title="Finestra – Sicilian" lang="scn" hreflang="scn">Sicilianu</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Window" title="Window – Simple English" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Okno" title="Okno – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Okno" title="Okno – Slovenian" lang="sl" hreflang="sl">Slovenščina</a></li><li class="interlanguage-link interwiki-so"><a href="//so.wikipedia.org/wiki/Dariishad" title="Dariishad – Somali" lang="so" hreflang="so">Soomaaliga</a></li><li class="interlanguage-link interwiki-ckb"><a href="//ckb.wikipedia.org/wiki/%D9%BE%DB%95%D9%86%D8%AC%DB%95%D8%B1%DB%95" title="پەنجەرە – Central Kurdish" lang="ckb" hreflang="ckb">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B7%D0%BE%D1%80" title="Прозор – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Prozor" title="Prozor – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Ikkuna" title="Ikkuna – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="//sv.wikipedia.org/wiki/F%C3%B6nster" title="Fönster – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%9A%E0%AE%BE%E0%AE%B3%E0%AE%B0%E0%AE%AE%E0%AF%8D" title="சாளரம் – Tamil" lang="ta" hreflang="ta">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="//te.wikipedia.org/wiki/%E0%B0%95%E0%B0%BF%E0%B0%9F%E0%B0%BF%E0%B0%95%E0%B1%80" title="కిటికీ – Telugu" lang="te" hreflang="te">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87" title="หน้าต่าง – Thai" lang="th" hreflang="th">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a href="//tg.wikipedia.org/wiki/%D0%A2%D0%B8%D1%80%D0%B5%D0%B7%D0%B0" title="Тиреза – Tajik" lang="tg" hreflang="tg">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Pencere" title="Pencere – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D0%BD%D0%BE" title="Вікно – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-vec"><a href="//vec.wikipedia.org/wiki/Fenestra" title="Fenestra – Venetian" lang="vec" hreflang="vec">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/C%E1%BB%ADa_s%E1%BB%95" title="Cửa sổ – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vls"><a href="//vls.wikipedia.org/wiki/Veister" title="Veister – West Flemish" lang="vls" hreflang="vls">West-Vlams</a></li><li class="interlanguage-link interwiki-yi"><a href="//yi.wikipedia.org/wiki/%D7%A4%D7%A2%D7%A0%D7%A1%D7%98%D7%A2%D7%A8" title="פענסטער – Yiddish" lang="yi" hreflang="yi">ייִדיש</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="//zh-yue.wikipedia.org/wiki/%E7%AA%97" title="窗 – Cantonese" lang="zh-yue" hreflang="zh-yue">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%AA%97" title="窗 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q35473#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 21 January 2016, at 15:57.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Window&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.10/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.10/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.10/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":147,"wgHostname":"mw1055"}); /* @nomin */
+} );</script>
+	</body>
+</html>

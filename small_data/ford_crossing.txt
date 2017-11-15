@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Ford (crossing) - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ford_(crossing)","wgTitle":"Ford (crossing)","wgCurRevisionId":697490547,"wgRevisionId":697490547,"wgArticleId":30432825,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing clarification from August 2015","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from August 2015","Commons category with local link same as on Wikidata","Wikipedia articles with GND identifiers","Road infrastructure","Pedestrian crossings","Water transport infrastructure","Rivers","Water streams","Rally racing terminology","Road hazards"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ford_(crossing)","wgRelevantArticleId":30432825,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wikilove-recipient":"","wikilove-anon":0,"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ogle_County_IL_White_Pines_State_Park_Fords3.jpg/100px-Ogle_County_IL_White_Pines_State_Park_Fords3.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q12743","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.10" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ford_(crossing)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ford_(crossing)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ford_(crossing)&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ford_(crossing)" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.10/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Ford_crossing skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Ford (crossing)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">Not to be confused with <a href="/wiki/Fjord" title="Fjord">fjord</a>.</div>
+<div class="hatnote">For other uses, see <a href="/wiki/Ford_(disambiguation)" title="Ford (disambiguation)" class="mw-disambig">Ford (disambiguation)</a>.</div>
+<table class="infobox" style="width:22em">
+<caption>Ford</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Ogle_County_IL_White_Pines_State_Park_Fords3.jpg" class="image" title="Vehicle crossing a modern ford over a creek"><img alt="Vehicle crossing a modern ford over a creek" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ogle_County_IL_White_Pines_State_Park_Fords3.jpg/240px-Ogle_County_IL_White_Pines_State_Park_Fords3.jpg" width="240" height="180" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ogle_County_IL_White_Pines_State_Park_Fords3.jpg/360px-Ogle_County_IL_White_Pines_State_Park_Fords3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ogle_County_IL_White_Pines_State_Park_Fords3.jpg/480px-Ogle_County_IL_White_Pines_State_Park_Fords3.jpg 2x" data-file-width="2048" data-file-height="1536" /></a>
+<div>Vehicle crossing a modern ford over a creek</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Ancestor</th>
+<td>None</td>
+</tr>
+<tr>
+<th scope="row">Related</th>
+<td>None, but akin to <a href="/wiki/Causeway" title="Causeway">causeway</a></td>
+</tr>
+<tr>
+<th scope="row">Descendant</th>
+<td>None, but akin to <a href="/wiki/Step-stone_bridge" title="Step-stone bridge" class="mw-redirect">step-stone bridge</a></td>
+</tr>
+<tr>
+<th scope="row">Carries</th>
+<td>Traffic</td>
+</tr>
+<tr>
+<th scope="row">Span range</th>
+<td>Short</td>
+</tr>
+<tr>
+<th scope="row">Material</th>
+<td>Usually none (natural, preexisting), but sometimes supplemented with concrete or asphalt for vehicles.</td>
+</tr>
+<tr>
+<th scope="row">Movable</th>
+<td>No</td>
+</tr>
+<tr>
+<th scope="row">Design effort</th>
+<td>None or low</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Falsework" title="Falsework">Falsework</a> required</th>
+<td>No</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Theb0771_-_Flickr_-_NOAA_Photo_Library.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Theb0771_-_Flickr_-_NOAA_Photo_Library.jpg/220px-Theb0771_-_Flickr_-_NOAA_Photo_Library.jpg" width="220" height="335" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Theb0771_-_Flickr_-_NOAA_Photo_Library.jpg/330px-Theb0771_-_Flickr_-_NOAA_Photo_Library.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Theb0771_-_Flickr_-_NOAA_Photo_Library.jpg/440px-Theb0771_-_Flickr_-_NOAA_Photo_Library.jpg 2x" data-file-width="900" data-file-height="1372" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Theb0771_-_Flickr_-_NOAA_Photo_Library.jpg" class="internal" title="Enlarge"></a></div>
+Crossing the <a href="/wiki/Red_River_of_the_South" title="Red River of the South">Red River</a> near <a href="/wiki/Granite,_Oklahoma" title="Granite, Oklahoma">Granite, Oklahoma</a> in 1921</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Milkhouse_ford_through_Rock_Creek_-_1960_National_Parks_Service.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Milkhouse_ford_through_Rock_Creek_-_1960_National_Parks_Service.jpg/220px-Milkhouse_ford_through_Rock_Creek_-_1960_National_Parks_Service.jpg" width="220" height="179" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Milkhouse_ford_through_Rock_Creek_-_1960_National_Parks_Service.jpg/330px-Milkhouse_ford_through_Rock_Creek_-_1960_National_Parks_Service.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Milkhouse_ford_through_Rock_Creek_-_1960_National_Parks_Service.jpg/440px-Milkhouse_ford_through_Rock_Creek_-_1960_National_Parks_Service.jpg 2x" data-file-width="640" data-file-height="521" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Milkhouse_ford_through_Rock_Creek_-_1960_National_Parks_Service.jpg" class="internal" title="Enlarge"></a></div>
+Crossing the Milkhouse ford through <a href="/wiki/Rock_Creek_(Potomac_River)" title="Rock Creek (Potomac River)">Rock Creek</a> in 1960</div>
+</div>
+</div>
+<p>A <b>ford</b> is a shallow place with good footing where a <a href="/wiki/River" title="River">river</a> or <a href="/wiki/Stream" title="Stream">stream</a> may be crossed by wading or inside a vehicle.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> A ford is mostly a natural phenomenon, in contrast to a <a href="/wiki/Low_water_crossing" title="Low water crossing">low water crossing</a>, which is an artificial bridge that allows crossing a river or stream when water is low.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Watersplash"><span class="tocnumber">1.1</span> <span class="toctext">Watersplash</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Location_names"><span class="tocnumber">2</span> <span class="toctext">Location names</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Famous_battles"><span class="tocnumber">3</span> <span class="toctext">Famous battles</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#In_fiction"><span class="tocnumber">3.1</span> <span class="toctext">In fiction</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ford_(crossing)&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A ford is a much cheaper form of river crossing than a <a href="/wiki/Bridge" title="Bridge">bridge</a>, but it may become impassable after heavy rain or during flood conditions. A ford is therefore normally only suitable for very minor roads (and for paths intended for walkers and horse riders etc.). Most modern fords are usually shallow enough to be crossed by <a href="/wiki/Automobile" title="Automobile" class="mw-redirect">cars</a> and other wheeled or tracked vehicles (a process known as "fording").</p>
+<p>In New Zealand, however, fords are a normal part of major roads, including, until 2010, along <a href="/wiki/New_Zealand_State_Highway_1" title="New Zealand State Highway 1">State Highway 1</a> on the South Island's east coast.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> As most inter-city domestic passengers travel by air and as much cargo goes by sea, long distance road traffic is low and fords are thus a practical necessity<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (August 2015)">clarification needed</span></a></i>]</sup> for crossing seasonal rivers. In dry weather, drivers become aware of a ford by crunching across outwash detritus on the roadway. A <a href="/wiki/Bailey_bridge" title="Bailey bridge">Bailey bridge</a> may be built off the main line of the road to carry emergency traffic during high water.</p>
+<p>At places where the water is shallow enough, but the material on the riverbed will not support heavy vehicles, fords are sometimes improved by building a submerged <a href="/wiki/Concrete" title="Concrete">concrete</a> floor. In such cases a <a href="/wiki/Curb_(road)" title="Curb (road)" class="mw-redirect">curb</a> (kerb) is often placed on the downstream side to prevent vehicles slipping off, as growth of <a href="/wiki/Algae" title="Algae">algae</a> will often make the slab very slippery. Fords may be also equipped with a post indicating the water depth, so that users may know if the water is too deep to attempt to cross. Some have an adjacent footbridge so that pedestrians may cross without getting their feet wet.</p>
+<h3><span class="mw-headline" id="Watersplash">Watersplash</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ford_(crossing)&amp;action=edit&amp;section=2" title="Edit section: Watersplash">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rye_Water_Ford,_Dalry.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rye_Water_Ford%2C_Dalry.JPG/220px-Rye_Water_Ford%2C_Dalry.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rye_Water_Ford%2C_Dalry.JPG/330px-Rye_Water_Ford%2C_Dalry.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rye_Water_Ford%2C_Dalry.JPG/440px-Rye_Water_Ford%2C_Dalry.JPG 2x" data-file-width="2288" data-file-height="1712" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rye_Water_Ford,_Dalry.JPG" class="internal" title="Enlarge"></a></div>
+The Rye Water Ford in North Ayrshire, a rare unmodernised crossing of a minor river</div>
+</div>
+</div>
+<p>A road running below the water level of a stream or river is often known as a "watersplash". It is a common name for a ford or stretch of wet road in some areas, and sometimes also used to describe tidal crossings. They have become a common feature in <a href="/wiki/Rallying" title="Rallying">rallying</a> courses. There are enthusiasts who seek out and drive through these water features, recording details (such as wave created, position and access) on dedicated websites.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>There are many old fords known as watersplashes in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>. Examples are at <a href="/wiki/Brockenhurst" title="Brockenhurst">Brockenhurst</a> in <a href="/wiki/Hampshire" title="Hampshire">Hampshire</a>, <a href="/wiki/Wookey" title="Wookey">Wookey</a> in <a href="/wiki/Somerset" title="Somerset">Somerset</a>, and <a href="/wiki/Swinbrook" title="Swinbrook">Swinbrook</a> in <a href="/wiki/Oxfordshire" title="Oxfordshire">Oxfordshire</a>. Some of these are being replaced by bridges as these are a more reliable form of crossing in adverse weather conditions.</p>
+<p>The <a href="//commons.wikimedia.org/wiki/File:Deanford.JPG" class="extiw" title="commons:File:Deanford.JPG">Dean Ford</a> in <a href="/wiki/Kilmarnock" title="Kilmarnock">Kilmarnock</a>, <a href="/wiki/Ayrshire" title="Ayrshire">Ayrshire</a>, is mentioned in the <a href="/wiki/Deed" title="Deed">deeds</a> of this<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Avoid_weasel_words" title="Wikipedia:Avoid weasel words" class="mw-redirect"><span title="The material near this tag possibly uses too vague attribution or weasel words. (August 2015)">which?</span></a></i>]</sup> property, which was gifted to the local people. The ford has had to be maintained as a property boundary feature, despite several cars a year being washed away.</p>
+<p>Not just a British phenomenon, some very spectacular versions of the watersplash feature can be found in diverse locations. <a href="/wiki/Australia" title="Australia">Australia</a> has the <a href="/wiki/Gulf_Savannah" title="Gulf Savannah" class="mw-redirect">Gulf Savannah</a>, and others may be found in <a href="/wiki/Canada" title="Canada">Canada</a>, <a href="/wiki/Italy" title="Italy">Italy</a>, <a href="/wiki/South_Africa" title="South Africa">South Africa</a>, and <a href="/wiki/Finland" title="Finland">Finland</a>. They are also found on some <a href="/wiki/Tennessee" title="Tennessee">Tennessee</a> backroads, where they are referred to as "underwater bridges".</p>
+<p>In Israel and part of the British areas under the <a href="/wiki/British_Mandate_for_Palestine_(legal_instrument)" title="British Mandate for Palestine (legal instrument)">mandate</a> a low water crossing or watersplash had been known as "Irish bridge"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> in reference to the <a href="/wiki/Irish_War_of_Independence" title="Irish War of Independence">Anglo–Irish war</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Location_names">Location names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ford_(crossing)&amp;action=edit&amp;section=3" title="Edit section: Location names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The names of many towns and villages are derived from the word 'ford'; for example, <a href="/wiki/Oxford" title="Oxford">Oxford</a> (a ford where <a href="/wiki/Ox" title="Ox">oxen</a> crossed the river: see the <a href="/wiki/Coat_of_arms_of_Oxford" title="Coat of arms of Oxford">Oxford coat of arms</a>), or <a href="//en.wiktionary.org/wiki/Stratford" class="extiw" title="wikt:Stratford">Stratford</a> (a ford on a <a href="/wiki/Roman_road" title="Roman road" class="mw-redirect">Roman road</a>). Similarly, the <a href="/wiki/German_language" title="German language">German</a> word <i>Furt</i> (as in <a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a>, the ford of the <a href="/wiki/Franks" title="Franks">Franks</a>, <a href="/wiki/Ochsenfurt" title="Ochsenfurt">Ochsenfurt</a>, synonymous to Oxford, <a href="/wiki/Schweinfurt" title="Schweinfurt">Schweinfurt</a>, a ford where <a href="/wiki/Swine" title="Swine" class="mw-redirect">swine</a> crossed the river, and <a href="/wiki/Klagenfurt" title="Klagenfurt">Klagenfurt</a>) and the <a href="/wiki/Dutch_language" title="Dutch language">Dutch</a> <i>voorde</i>, (as in <a href="/wiki/Vilvoorde" title="Vilvoorde">Vilvoorde</a>, <a href="/wiki/Coevorden" title="Coevorden">Coevorden</a>, <a href="/wiki/Zandvoort" title="Zandvoort">Zandvoort</a>, or <a href="/wiki/Amersfoort" title="Amersfoort">Amersfoort</a>) are <a href="/wiki/Cognate" title="Cognate">cognates</a> and have the same meaning.</p>
+<p>Towns such as <a href="/wiki/Maastricht" title="Maastricht">Maastricht</a>, <a href="/wiki/Dordrecht" title="Dordrecht">Dordrecht</a>, and <a href="/wiki/Utrecht" title="Utrecht">Utrecht</a> also formed at fords. The ending <i>tricht, drecht</i>, or <i>trecht</i> is derived from the <a href="/wiki/Latin" title="Latin">Latin</a> word <i>traiectum</i>, meaning "crossing". Thus the name Utrecht, originally the Roman fort of <a href="/wiki/Traiectum_(Utrecht)" title="Traiectum (Utrecht)">Traiectum</a>, is derived from "Uut Trecht", meaning "downstream crossing". The Afrikaans form was taken into South African English as <i>drift</i> and led to place names like Rorke's Drift. Similarly, in Slavic languages, the word <a href="//en.wiktionary.org/wiki/brod" class="extiw" title="wikt:brod">brod</a> comes from the linguistic root that means "river-crossing" or "place where a river can be crossed". Although today "brod" in the Croatian language means "ship", <a href="/wiki/Slavonski_Brod" title="Slavonski Brod">Slavonski Brod</a> in Croatia, as well as <a href="/wiki/Makedonski_Brod" title="Makedonski Brod">Makedonski Brod</a> in <a href="/wiki/Republic_of_Macedonia" title="Republic of Macedonia">Macedonia</a> and other place names containing "Brod" in Slavic countries, where "brod" is still the word for ford, are named after fords.</p>
+<h2><span class="mw-headline" id="Famous_battles">Famous battles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ford_(crossing)&amp;action=edit&amp;section=4" title="Edit section: Famous battles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Alphonse_de_Neuville_-_The_defence_of_Rorke%27s_Drift_1879_-_Google_Art_Project.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Alphonse_de_Neuville_-_The_defence_of_Rorke%27s_Drift_1879_-_Google_Art_Project.jpg/220px-Alphonse_de_Neuville_-_The_defence_of_Rorke%27s_Drift_1879_-_Google_Art_Project.jpg" width="220" height="131" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Alphonse_de_Neuville_-_The_defence_of_Rorke%27s_Drift_1879_-_Google_Art_Project.jpg/330px-Alphonse_de_Neuville_-_The_defence_of_Rorke%27s_Drift_1879_-_Google_Art_Project.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Alphonse_de_Neuville_-_The_defence_of_Rorke%27s_Drift_1879_-_Google_Art_Project.jpg/440px-Alphonse_de_Neuville_-_The_defence_of_Rorke%27s_Drift_1879_-_Google_Art_Project.jpg 2x" data-file-width="5001" data-file-height="2967" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Alphonse_de_Neuville_-_The_defence_of_Rorke%27s_Drift_1879_-_Google_Art_Project.jpg" class="internal" title="Enlarge"></a></div>
+The Battle of Rorke's Drift in the Anglo-Zulu war</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:2014-10-20_12_12_09_View_north_along_Rock_Springs_Road_(Elko_County_Route_763)_about_22.8_miles_north_of_Wilkins-Montello_Road_(Elko_County_Route_765)_at_the_Little_Goose_Creek_in_Elko_County,_Nevada.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2014-10-20_12_12_09_View_north_along_Rock_Springs_Road_%28Elko_County_Route_763%29_about_22.8_miles_north_of_Wilkins-Montello_Road_%28Elko_County_Route_765%29_at_the_Little_Goose_Creek_in_Elko_County%2C_Nevada.JPG/220px-thumbnail.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2014-10-20_12_12_09_View_north_along_Rock_Springs_Road_%28Elko_County_Route_763%29_about_22.8_miles_north_of_Wilkins-Montello_Road_%28Elko_County_Route_765%29_at_the_Little_Goose_Creek_in_Elko_County%2C_Nevada.JPG/330px-thumbnail.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2014-10-20_12_12_09_View_north_along_Rock_Springs_Road_%28Elko_County_Route_763%29_about_22.8_miles_north_of_Wilkins-Montello_Road_%28Elko_County_Route_765%29_at_the_Little_Goose_Creek_in_Elko_County%2C_Nevada.JPG/440px-thumbnail.jpg 2x" data-file-width="3264" data-file-height="2448" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:2014-10-20_12_12_09_View_north_along_Rock_Springs_Road_(Elko_County_Route_763)_about_22.8_miles_north_of_Wilkins-Montello_Road_(Elko_County_Route_765)_at_the_Little_Goose_Creek_in_Elko_County,_Nevada.JPG" class="internal" title="Enlarge"></a></div>
+A ford along <a href="/wiki/List_of_county_routes_in_Elko_County,_Nevada" title="List of county routes in Elko County, Nevada">Elko County Route</a> 763 (Rock Springs Road) in rural northeastern <a href="/wiki/Nevada" title="Nevada">Nevada</a>, United States</div>
+</div>
+</div>
+<p>Because in historic times a ford was often a strategic military point, many famous battles were fought at or near fords.</p>
+<ul>
+<li><a href="/wiki/Battle_of_Xiaoyao_Ford" title="Battle of Xiaoyao Ford">Battle of Xiaoyao Ford</a>, 215-217</li>
+<li><a href="/wiki/Battle_of_Fulford" title="Battle of Fulford">Battle of Fulford</a>, 1066</li>
+<li><a href="/wiki/Battle_of_Jacob%27s_Ford" title="Battle of Jacob's Ford">Battle of Jacob's Ford</a>, 1179</li>
+<li><a href="/wiki/Battle_of_Imjin_River_(1592)" title="Battle of Imjin River (1592)">Battle of Imjin River</a>, 1592</li>
+<li><a href="/wiki/Battle_of_the_Yellow_Ford" title="Battle of the Yellow Ford">Battle of the Yellow Ford</a>, 1598</li>
+<li><a href="/wiki/Battle_of_Newburn" title="Battle of Newburn">Battle of Newburn</a> Ford, 1640</li>
+<li><a href="/wiki/Battle_of_the_Boyne" title="Battle of the Boyne">Battle of the Boyne</a>, 1690</li>
+<li><a href="/wiki/Battle_of_Matson%27s_Ford" title="Battle of Matson's Ford">Battle of Matson's Ford</a>, 1777</li>
+<li><a href="/wiki/Battle_of_Brandywine" title="Battle of Brandywine">Battle of Brandywine</a>, 1777</li>
+<li><a href="/wiki/Battle_of_Minisink" title="Battle of Minisink">Battle of Minisink</a>, 1779</li>
+<li><a href="/wiki/Battle_of_Cowan%27s_Ford" title="Battle of Cowan's Ford">Battle of Cowan's Ford</a>, 1781</li>
+<li><a href="/wiki/Battle_of_Assaye" title="Battle of Assaye">Battle of Assaye</a>, 1803</li>
+<li><a href="/wiki/Battle_of_Blackburn%27s_Ford" title="Battle of Blackburn's Ford">Battle of Blackburn's Ford</a>, 1861</li>
+<li><a href="/wiki/Battle_of_Kelly%27s_Ford" title="Battle of Kelly's Ford">Battle of Kelly's Ford</a>, 1863</li>
+<li><a href="/wiki/Battle_of_Buffington_Island" title="Battle of Buffington Island">Battle of Buffington Island</a>, 1863</li>
+<li><a href="/wiki/Battle_of_Chancellorsville" title="Battle of Chancellorsville">Battle of Chancellorsville</a>, 1863</li>
+<li><a href="/wiki/Battle_of_Byram%27s_Ford" title="Battle of Byram's Ford">Battle of Byram's Ford</a>, 1864</li>
+<li><a href="/wiki/Battle_of_Morton%27s_Ford" title="Battle of Morton's Ford">Battle of Morton's Ford</a>, 1864</li>
+<li><a href="/wiki/Battle_of_Rorke%27s_Drift" title="Battle of Rorke's Drift">Battle of Rorke's Drift</a>, 1879</li>
+<li><a href="/wiki/Battle_of_Cut_Knife" title="Battle of Cut Knife">Battle of Cut Knife</a>, 1885</li>
+</ul>
+<h3><span class="mw-headline" id="In_fiction">In fiction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ford_(crossing)&amp;action=edit&amp;section=5" title="Edit section: In fiction">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/The_Defence_of_Duffer%27s_Drift" title="The Defence of Duffer's Drift">The Defence of Duffer's Drift</a>, 1900</li>
+<li><a href="/wiki/First_Battle_of_Beruna" title="First Battle of Beruna">First Battle of Beruna</a>, Narnian year 1000</li>
+<li><a href="/wiki/Second_Battle_of_Beruna" title="Second Battle of Beruna">Second Battle of Beruna</a>, Narnian year 2303</li>
+<li><a href="/wiki/Fords_of_Isen#First_Battle_of_the_Fords_of_Isen" title="Fords of Isen">First Battle of the Fords of Isen</a>, February 25, 3019 (<a href="/wiki/Third_Age" title="Third Age" class="mw-redirect">Third Age</a> of <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a>)</li>
+<li><a href="/wiki/Fords_of_Isen#Second_Battle_of_the_Fords_of_Isen" title="Fords of Isen">Second Battle of the Fords of Isen</a>, March 2, 3019 (<a href="/wiki/Third_Age" title="Third Age" class="mw-redirect">Third Age</a> of <a href="/wiki/Middle-earth" title="Middle-earth">Middle-earth</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://awoiaf.westeros.org/index.php/Battle_of_the_Trident">Battle of the Trident</a>, 283 AC of Westeros</li>
+</ul>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ford_(crossing)&amp;action=edit&amp;section=6" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Stanhope_Ford.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Stanhope_Ford.jpg/120px-Stanhope_Ford.jpg" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Stanhope_Ford.jpg/180px-Stanhope_Ford.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Stanhope_Ford.jpg/240px-Stanhope_Ford.jpg 2x" data-file-width="911" data-file-height="606" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A ford in <a href="/wiki/Stanhope,_County_Durham" title="Stanhope, County Durham">Stanhope</a>, England This crossing is now permanently closed following a spate of accidents<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:32.5px auto;"><a href="/wiki/File:Ford-Across-the-Way.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ford-Across-the-Way.jpg/120px-Ford-Across-the-Way.jpg" width="120" height="85" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ford-Across-the-Way.jpg/180px-Ford-Across-the-Way.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ford-Across-the-Way.jpg/240px-Ford-Across-the-Way.jpg 2x" data-file-width="2854" data-file-height="2023" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A ford in a 19th-century oil painting. In this instance the ford may have artistic or symbolic significance</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35.5px auto;"><a href="/wiki/File:ST-berberfamily.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ST-berberfamily.jpg/120px-ST-berberfamily.jpg" width="120" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ST-berberfamily.jpg/180px-ST-berberfamily.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ST-berberfamily.jpg/240px-ST-berberfamily.jpg 2x" data-file-width="584" data-file-height="385" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A <a href="/wiki/Berber_people" title="Berber people" class="mw-redirect">Berber</a> family crossing a ford in <a href="/wiki/Algeria" title="Algeria">Algeria</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Brockenhurst_Ford.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Brockenhurst_Ford.jpg/120px-Brockenhurst_Ford.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Brockenhurst_Ford.jpg/180px-Brockenhurst_Ford.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Brockenhurst_Ford.jpg/240px-Brockenhurst_Ford.jpg 2x" data-file-width="2560" data-file-height="1920" /></a></div>
+</div>
+<div class="gallerytext">
+<p>The ford at <a href="/wiki/Brockenhurst" title="Brockenhurst">Brockenhurst</a>, leading into the village centre, following heavy rain</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Ahne_Furt_Steg_bei_Weimar_v_O.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ahne_Furt_Steg_bei_Weimar_v_O.jpg/120px-Ahne_Furt_Steg_bei_Weimar_v_O.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ahne_Furt_Steg_bei_Weimar_v_O.jpg/180px-Ahne_Furt_Steg_bei_Weimar_v_O.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ahne_Furt_Steg_bei_Weimar_v_O.jpg/240px-Ahne_Furt_Steg_bei_Weimar_v_O.jpg 2x" data-file-width="800" data-file-height="600" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A ford, with pedestrian footbridge, on a minor road near <a href="/wiki/Ahnatal-Weimar" title="Ahnatal-Weimar">Weimar bei Kassel</a> in <a href="/wiki/Germany" title="Germany">Germany</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:34px auto;"><a href="/wiki/File:Fording_an_Indian_River.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fording_an_Indian_River.jpeg/120px-Fording_an_Indian_River.jpeg" width="120" height="82" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fording_an_Indian_River.jpeg/180px-Fording_an_Indian_River.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fording_an_Indian_River.jpeg/240px-Fording_an_Indian_River.jpeg 2x" data-file-width="599" data-file-height="409" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Fording an Indian River, c. 1905</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ford_(crossing)&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Causeway" title="Causeway">Causeway</a></li>
+<li><a href="/wiki/Step-stone_bridge" title="Step-stone bridge" class="mw-redirect">Step-stone bridge</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ford_(crossing)&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Thompson, Della, ed. (1995). <i>The Concise Oxford Dictionary of Current English</i> (9 ed.). Oxford. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-861320-6" title="Special:BookSources/978-0-19-861320-6">978-0-19-861320-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFord+%28crossing%29&amp;rft.btitle=The+Concise+Oxford+Dictionary+of+Current+English&amp;rft.date=1995&amp;rft.edition=9&amp;rft.genre=book&amp;rft.isbn=978-0-19-861320-6&amp;rft.pub=Oxford&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.nzta.govt.nz/media-releases/end-of-the-road-for-last-traffic-fords-left-on-state-highway-1/">"End of the road for last traffic fords left on State Highway 1"</a>. <i>Media statement</i>. NZTA, Christchurch Regional Office. 28 December 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">29 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFord+%28crossing%29&amp;rft.atitle=End+of+the+road+for+last+traffic+fords+left+on+State+Highway+1&amp;rft.date=2015-12-28&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.nzta.govt.nz%2Fmedia-releases%2Fend-of-the-road-for-last-traffic-fords-left-on-state-highway-1%2F&amp;rft.jtitle=Media+statement&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wetroads.co.uk">"An online guide to every UK ford, watersplash and tidal road"</a>. wetroads.co.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-09-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFord+%28crossing%29&amp;rft.btitle=An+online+guide+to+every+UK+ford%2C+watersplash+and+tidal+road&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.wetroads.co.uk&amp;rft.pub=wetroads.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">The <a href="/w/index.php?title=Be%27er_sheva&amp;action=edit&amp;redlink=1" class="new" title="Be'er sheva (page does not exist)">Be'er sheva</a> ford was officially called Irish bridge</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><i>Yehuda Ziv - מורשת דרך</i>- the sources of the "Irish bridges"</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.tapuz.co.il/forums2008/viewmsg.aspx?forumid=683&amp;messageid=12748520">explanations about the source of the term Irish bridge</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bbc.com/news/uk-england-tyne-17115018">Stanhope Ford's permanent closure approved</a>, BBC News, 21 February 2012</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ford_(crossing)&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Fords" class="extiw" title="commons:Category:Fords">Fords</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.wetroads.co.uk/">List of British fords</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4306851-0">4306851-0</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1108
+Cached time: 20160101052545
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.298 seconds
+Real time usage: 0.388 seconds
+Preprocessor visited node count: 991/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 15322/2097152 bytes
+Template argument size: 1658/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.107/10.000 seconds
+Lua memory usage: 2.51 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  320.506      1 - -total
+ 23.74%   76.092      1 - Template:Reflist
+ 21.35%   68.423      1 - Template:Clarify
+ 19.07%   61.124      1 - Template:Fix-span
+ 12.81%   41.041      1 - Template:Commons_category
+ 12.71%   40.749      1 - Template:Cite_book
+ 10.96%   35.116      3 - Template:Category_handler
+  9.53%   30.529      1 - Template:Distinguish
+  9.04%   28.976      2 - Template:Hatnote
+  8.86%   28.389      1 - Template:Infobox_bridge_type
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:30432825-0!*!0!!en!4!* and timestamp 20160101052545 and revision id 697490547
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ford_(crossing)&amp;oldid=697490547">https://en.wikipedia.org/w/index.php?title=Ford_(crossing)&amp;oldid=697490547</a>"					</div>
+				<div id='catlinks' class='catlinks' data-mw='interface'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Road_infrastructure" title="Category:Road infrastructure">Road infrastructure</a></li><li><a href="/wiki/Category:Pedestrian_crossings" title="Category:Pedestrian crossings">Pedestrian crossings</a></li><li><a href="/wiki/Category:Water_transport_infrastructure" title="Category:Water transport infrastructure">Water transport infrastructure</a></li><li><a href="/wiki/Category:Rivers" title="Category:Rivers">Rivers</a></li><li><a href="/wiki/Category:Water_streams" title="Category:Water streams">Water streams</a></li><li><a href="/wiki/Category:Rally_racing_terminology" title="Category:Rally racing terminology">Rally racing terminology</a></li><li><a href="/wiki/Category:Road_hazards" title="Category:Road hazards">Road hazards</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_August_2015" title="Category:Wikipedia articles needing clarification from August 2015">Wikipedia articles needing clarification from August 2015</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_August_2015" title="Category:Articles with specifically marked weasel-worded phrases from August 2015">Articles with specifically marked weasel-worded phrases from August 2015</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ford+%28crossing%29&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ford+%28crossing%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Ford_(crossing)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Ford_(crossing)"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Ford_(crossing)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Ford_(crossing)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ford_(crossing)&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ford_(crossing)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ford_(crossing)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ford_(crossing)&amp;oldid=697490547" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ford_(crossing)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q12743" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ford_%28crossing%29&amp;id=697490547" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ford+%28crossing%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Ford+%28crossing%29&amp;returnto=Ford+%28crossing%29&amp;oldid=697490547&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ford_(crossing)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%85%D8%AE%D8%A7%D8%B6%D8%A9" title="مخاضة – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="//an.wikipedia.org/wiki/Vado" title="Vado – Aragonese" lang="an" hreflang="an">Aragonés</a></li><li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%B4" title="Брод – Bulgarian" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-br"><a href="//br.wikipedia.org/wiki/Roudouz" title="Roudouz – Breton" lang="br" hreflang="br">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Gual" title="Gual – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Brod" title="Brod – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="//cy.wikipedia.org/wiki/Rhyd" title="Rhyd – Welsh" lang="cy" hreflang="cy">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Vadested" title="Vadested – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Furt" title="Furt – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Koole" title="Koole – Estonian" lang="et" hreflang="et">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Vado" title="Vado – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Vadejo" title="Vadejo – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Gu%C3%A9" title="Gué – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="//fy.wikipedia.org/wiki/Furde" title="Furde – Western Frisian" lang="fy" hreflang="fy">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a href="//ga.wikipedia.org/wiki/%C3%81th" title="Áth – Irish" lang="ga" hreflang="ga">Gaeilge</a></li><li class="interlanguage-link interwiki-gv"><a href="//gv.wikipedia.org/wiki/Aah" title="Aah – Manx" lang="gv" hreflang="gv">Gaelg</a></li><li class="interlanguage-link interwiki-gd"><a href="//gd.wikipedia.org/wiki/Beul-%C3%A0tha" title="Beul-àtha – Scottish Gaelic" lang="gd" hreflang="gd">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/Vao_(pasaxe)" title="Vao (pasaxe) – Galician" lang="gl" hreflang="gl">Galego</a></li><li class="interlanguage-link interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D4%B3%D5%A5%D5%BF%D5%A1%D5%B6%D6%81" title="Գետանց – Armenian" lang="hy" hreflang="hy">Հայերեն</a></li><li class="interlanguage-link interwiki-is"><a href="//is.wikipedia.org/wiki/Va%C3%B0" title="Vað – Icelandic" lang="is" hreflang="is">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Guado" title="Guado – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%91%D7%A8%D7%94_(%D7%A0%D7%A7%D7%95%D7%93%D7%AA_%D7%97%D7%A6%D7%99%D7%99%D7%94)" title="מעברה (נקודת חצייה) – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%B4_(%D0%A5%D0%B0%D1%81%D0%BA%D0%BE%D0%B2%D0%BE_%D0%BE%D0%B1%D0%BB%D1%8B%D1%81%D1%8B)" title="Брод (Хасково облысы) – Kazakh" lang="kk" hreflang="kk">Қазақша</a></li><li class="interlanguage-link interwiki-lv"><a href="//lv.wikipedia.org/wiki/Brasls" title="Brasls – Latvian" lang="lv" hreflang="lv">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/Brasta" title="Brasta – Lithuanian" lang="lt" hreflang="lt">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/G%C3%A1zl%C3%B3_(hidrol%C3%B3gia)" title="Gázló (hidrológia) – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Voorde_(doorwaadbare_plaats)" title="Voorde (doorwaadbare plaats) – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-nds-nl"><a href="//nds-nl.wikipedia.org/wiki/Voorde" title="Voorde – Low Saxon" lang="nds-NL" hreflang="nds-NL">Nedersaksies</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E6%B4%97%E3%81%84%E8%B6%8A%E3%81%97" title="洗い越し – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Vadested" title="Vadested – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="//nn.wikipedia.org/wiki/Vadestad" title="Vadestad – Norwegian Nynorsk" lang="nn" hreflang="nn">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Br%C3%B3d_(geografia)" title="Bród (geografia) – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Vau" title="Vau – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Vad_(punct_de_trecere)" title="Vad (punct de trecere) – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%B4" title="Брод – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sah"><a href="//sah.wikipedia.org/wiki/%D0%9E%D0%BB%D0%BE%D0%BC" title="Олом – Sakha" lang="sah" hreflang="sah">Саха тыла</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Brod" title="Brod – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Brod_(prehod)" title="Brod (prehod) – Slovenian" lang="sl" hreflang="sl">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B8%D1%9B%D0%B0%D0%BA" title="Плићак – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Gaz_(prelaz)" title="Gaz (prelaz) – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Kahluupaikka" title="Kahluupaikka – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Vadst%C3%A4lle" title="Vadställe – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%91%D1%80%D1%96%D0%B4" title="Брід – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-wa"><a href="//wa.wikipedia.org/wiki/W%C3%A9" title="Wé – Walloon" lang="wa" hreflang="wa">Walon</a></li><li class="interlanguage-link interwiki-bat-smg"><a href="//bat-smg.wikipedia.org/wiki/Brastva" title="Brastva – Samogitian" lang="bat-smg" hreflang="bat-smg">Žemaitėška</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%B5%85%E6%BB%A9" title="浅滩 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q12743#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 30 December 2015, at 21:32.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ford_(crossing)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.10/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.10/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.10/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1244"}); /* @nomin */
+} );</script>
+	</body>
+</html>
